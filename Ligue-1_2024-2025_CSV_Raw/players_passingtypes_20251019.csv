@@ -1,0 +1,425 @@
+﻿Player;Nation;Pos;Squad;Age;Att;Live;Dead;FK;TB;Sw;Crs;TI;CK;In;Out;Str;Cmp;Off;Blocks
+Himad Abdelli;dz ALG;MF;Angers;25;142;131;11;2;1;0;7;1;5;4;1;0;115;0;1
+Ali Abdi;tn TUN;DF,MF;Nice;31;30;21;9;1;0;0;2;8;0;0;0;0;22;0;2
+Salis Abdul Samed;gh GHA;MF;Nice;25;105;103;2;2;0;0;0;0;0;0;0;0;98;0;2
+Saud Abdulhamid;sa KSA;DF;Lens;26;59;51;8;0;0;0;5;8;0;0;0;0;48;0;2
+Laurent Abergel;fr FRA;MF;Lorient;32;465;439;25;25;1;2;2;0;0;0;0;0;409;1;5
+Matthis Abline;fr FRA;MF,FW;Nantes;22;84;82;2;0;0;1;5;0;0;0;0;0;55;0;7
+Abner;br BRA;DF;Lyon;25;200;169;30;4;1;1;6;25;1;0;0;0;168;1;3
+Francis Abu;gh GHA;MF;Toulouse;24;110;110;0;0;0;1;0;0;0;0;0;0;90;0;3
+Giorgi Abuashvili;ge GEO;FW;Metz;22;61;54;7;0;0;2;6;3;4;0;3;0;54;0;1
+Nayef Aguerd;ma MAR;DF;Marseille;29;433;409;23;12;0;3;0;1;0;0;0;0;403;1;1
+Ruben Aguilar;fr FRA;DF;Lens;32;297;249;45;2;0;0;25;43;0;0;0;0;236;3;7
+Abdelhamid Ait Boudlal;ma MAR;DF;Rennes;19;33;30;3;3;0;0;0;0;0;0;0;0;28;0;0
+Tosin Aiyegun;bj BEN;MF,FW;Lorient;27;84;82;1;0;1;0;2;1;0;0;0;0;62;1;4
+Ludovic Ajorque;fr FRA;FW;Brest;31;191;186;5;1;1;4;1;0;0;0;0;0;129;0;0
+Maghnes Akliouche;fr FRA;MF,FW;Monaco;23;329;312;17;4;3;2;19;7;6;1;4;0;259;0;6
+Clément Akpa;ci CIV;DF;Auxerre;23;283;252;30;20;0;4;6;3;2;0;2;0;235;1;1
+Mohamed Ali Cho;fr FRA;FW;Nice;21;51;49;2;0;2;0;7;0;0;0;0;0;35;0;4
+Jim Allevinah;ga GAB;FW,DF;Angers;30;13;12;0;0;0;0;1;0;0;0;0;0;10;1;0
+Kelvin Amian;fr FRA;DF;Nantes;27;347;283;62;12;0;1;6;50;0;0;0;0;271;2;5
+Mohamed Amine Sbai;fr FRA;FW;Angers;24;22;18;4;0;0;1;6;0;4;4;0;0;11;0;1
+Michael Amir Murillo;pa PAN;DF;Marseille;29;293;251;42;3;2;0;11;39;0;0;0;0;245;0;6
+Samuel Amo-Ameyaw;eng ENG;DF,FW;Strasbourg;19;98;91;7;0;1;0;14;4;3;2;0;0;80;0;1
+Mathis Amougou;fr FRA;MF;Strasbourg;19;44;43;1;1;0;0;0;0;0;0;0;0;38;0;1
+Benjamin André;fr FRA;MF;Lille;35;246;231;14;14;1;3;5;0;0;0;0;0;199;1;9
+Youssef El-Arabi;ma MAR;FW,MF;Nantes;38;14;14;0;0;0;1;0;0;0;0;0;0;7;0;0
+Carlens Arcus;ht HAI;DF;Angers;29;417;349;65;14;0;2;3;51;0;0;0;0;363;3;4
+Hákon Arnar Haraldsson;is ISL;MF,FW;Lille;22;245;218;26;2;3;2;17;1;14;2;10;0;198;1;4
+Dehmaine Assoumani;fr FRA;MF;Nantes;20;87;79;7;3;0;3;9;0;4;2;2;0;65;1;1
+Otavio Ataide;br BRA;DF;Paris FC;23;325;314;11;7;0;5;0;0;0;0;0;0;291;0;0
+Pierre-Emerick Aubameyang;ga GAB;FW;Marseille;36;79;73;6;0;1;0;9;0;0;0;0;0;58;0;3
+Arthur Avom;cm CMR;MF;Lorient;20;292;267;22;13;4;0;15;2;5;3;1;0;240;3;9
+Chidozie Awaziem;ng NGA;DF;Nantes;28;489;428;60;22;0;7;0;2;0;0;0;0;425;1;2
+Oussama El Azzouzi;ma MAR;DF;Auxerre;24;18;15;2;2;0;0;0;0;0;0;0;0;17;1;0
+Samson Baidoo;at AUT;DF;Lens;21;204;194;10;9;0;2;0;0;0;0;0;0;190;0;0
+Theo Bair;ca CAN;MF,FW;Auxerre;26;4;4;0;0;0;0;0;0;0;0;0;0;3;0;0
+Darryl Bakola;fr FRA;MF;Marseille;17;24;24;0;0;0;0;1;0;0;0;0;0;22;0;0
+Dilane Bakwa;fr FRA;DF,MF;Strasbourg;23;50;45;5;0;2;2;7;1;4;2;2;0;40;0;1
+Leonardo Balerdi;ar ARG;DF;Marseille;26;460;435;25;13;1;1;1;1;0;0;0;0;436;0;2
+Fodé Ballo-Touré;sn SEN;DF;Metz;28;82;67;15;1;0;1;3;14;0;0;0;0;71;0;3
+Folarin Balogun;us USA;FW;Monaco;24;82;79;3;0;0;0;2;0;0;0;0;0;56;0;5
+Aladji Bamba;fr FRA;MF;Monaco;19;124;122;2;1;0;0;0;1;0;0;0;0;114;0;1
+Mohamed Bamba;ci CIV;FW;Lorient;23;58;46;12;0;2;0;1;0;0;0;0;0;40;0;4
+Valentín Barco;ar ARG;MF,DF;Strasbourg;21;444;389;53;33;5;0;21;13;7;2;4;0;369;2;6
+Bradley Barcola;fr FRA;FW;Paris S-G;23;198;196;1;1;1;1;3;0;0;0;0;0;168;1;6
+Melvin Bard;fr FRA;DF,MF;Nice;24;405;342;61;8;1;1;29;52;0;0;0;0;309;2;10
+Haris Belkebla;dz ALG;MF;Angers;31;283;271;11;8;0;1;2;3;0;0;0;0;256;1;2
+Yassin Belkhdim;fr FRA;MF;Angers;23;285;278;6;4;0;5;14;2;0;0;0;0;236;1;9
+Eliesse Ben Seghir;ma MAR;MF,FW;Monaco;20;26;25;1;1;0;1;1;0;0;0;0;0;19;0;0
+Yassine Benhattab;fr FRA;MF,FW;Nantes;22;115;114;1;0;1;0;13;1;0;0;0;0;77;0;5
+Nabil Bentaleb;dz ALG;MF;Lille;30;174;159;15;9;2;3;6;2;4;1;1;0;144;0;2
+Lucas Beraldo;br BRA;DF;Paris S-G;21;533;519;14;5;1;2;0;0;0;0;0;0;511;0;1
+Anthony Bermont;fr FRA;DF,MF;Lens;20;37;36;1;0;0;0;3;1;0;0;0;0;27;0;2
+Mika Biereth;dk DEN;FW,MF;Monaco;22;91;79;11;0;2;0;4;2;0;0;0;0;55;1;4
+Emmanuel Biumla;fr FRA;DF;Angers;20;73;71;1;1;0;0;0;0;0;0;0;0;61;1;2
+Ludovic Blas;fr FRA;MF,FW;Rennes;27;171;163;7;1;1;4;8;1;1;1;0;0;144;1;4
+Arnaud Bodart;be BEL;GK;Lille;27;33;26;7;2;0;0;0;0;0;0;0;0;26;0;0
+Jeremie Boga;ci CIV;MF,FW;Nice;28;147;133;14;4;1;2;11;0;7;1;4;0;116;0;7
+Morgan Bokelé Mputu;cm CMR;DF,FW;Metz;21;69;67;1;1;0;1;4;0;0;0;0;0;53;1;0
+Moïse Bombito;ca CAN;DF;Nice;25;64;60;4;1;0;0;0;0;0;0;0;0;54;0;0
+Ayyoub Bouaddi;fr FRA;MF;Lille;18;184;177;7;5;0;1;6;2;0;0;0;0;148;0;6
+Badredine Bouanani;dz ALG;MF;Nice;20;52;51;1;1;2;0;5;0;0;0;0;0;38;0;0
+Hicham Boudaoui;dz ALG;MF;Nice;26;263;256;5;5;3;1;8;0;0;0;0;0;217;2;5
+Justin Bourgault;fr FRA;MF,DF;Brest;20;7;4;3;0;0;0;0;3;0;0;0;0;7;0;0
+Bilal Brahimi;dz ALG;FW;Nice;25;5;5;0;0;0;0;2;0;0;0;0;0;3;0;0
+Lilian Brassier;fr FRA;DF;Rennes;25;180;179;1;1;0;1;5;0;0;0;0;0;154;0;2
+Marius Broholm;no NOR;FW;Lille;20;45;43;2;1;0;0;1;1;0;0;0;0;33;0;1
+Paris Brunner;de GER;FW;Monaco;19;17;15;1;0;1;0;0;0;0;0;0;0;9;1;1
+Andrija Bulatović;me MNE;MF;Lens;18;3;3;0;0;0;0;0;0;0;0;0;0;1;0;0
+Vincent Burlet;be BEL;DF;Lille;20;16;15;1;0;0;0;1;1;0;0;0;0;15;0;0
+Pape Cabral;fr FRA;MF;Monaco;18;13;13;0;0;0;0;0;0;0;0;0;0;13;0;0
+Noah Cadiou;gp GLP;MF;Lorient;26;36;35;1;1;0;1;0;0;0;0;0;0;28;0;1
+Mathieu Cafaro;fr FRA;FW,MF;Paris FC;28;26;23;3;1;0;0;3;1;1;1;0;0;19;0;2
+Adama Camara;fr FRA;MF;Paris FC;29;176;175;1;1;0;0;1;0;0;0;0;0;151;0;0
+Amady Camara;ml MLI;MF,FW;Nantes;20;42;41;1;0;0;0;8;1;0;0;0;0;27;0;2
+Lamine Camara;sn SEN;MF;Monaco;21;239;224;15;5;0;1;14;1;9;8;1;0;197;0;2
+Mahdi Camara;fr FRA;MF,DF;Rennes;27;154;153;1;1;0;0;5;0;0;0;0;0;140;0;2
+Ousmane Camara;ml MLI;DF;Angers;22;251;245;5;4;0;0;1;0;0;0;0;0;219;1;1
+Axel Camblan;fr FRA;FW,MF;Brest;22;3;3;0;0;0;0;0;0;0;0;0;0;3;0;0
+Jaydee Canvot;fr FRA;MF,DF;Toulouse;19;106;106;0;0;0;0;0;0;0;0;0;0;97;0;0
+Pierrick Capelle;fr FRA;MF;Angers;38;23;22;1;0;1;1;3;0;1;1;0;0;17;0;2
+Igor Carioca;br BRA;DF;Lorient;29;176;155;20;8;0;0;8;9;1;0;1;0;149;1;1
+Kevin Carlos;es ESP;FW;Nice;24;35;27;7;0;0;0;0;0;0;0;0;0;25;1;0
+Josué Casimir;ht HAI;MF,DF;Auxerre;24;187;148;39;7;0;1;29;14;18;2;10;0;128;0;5
+Cristian Cásseres Jr.;ve VEN;MF;Toulouse;25;228;197;30;17;2;1;16;1;8;3;3;0;183;1;5
+Brendan Chardonnet;fr FRA;DF;Brest;30;268;253;14;7;0;3;0;0;0;0;0;0;233;1;2
+Samir Chergui;dz ALG;DF;Paris FC;26;274;241;33;5;0;0;2;27;0;0;0;0;252;0;1
+Sidiki Cherif;fr FRA;FW,MF;Angers;18;76;75;1;0;1;0;5;0;0;0;0;0;50;0;8
+Lucas Chevalier;fr FRA;GK;Paris S-G;23;214;182;32;9;0;0;0;0;0;0;0;0;197;0;1
+Ben Chilwell;eng ENG;DF,FW;Strasbourg;28;152;126;24;2;0;0;2;21;1;0;1;0;120;2;2
+Joris Chotard;fr FRA;MF;Brest;24;201;195;5;4;0;2;6;0;1;0;0;0;165;1;3
+Djaoui Cissé;fr FRA;MF;Rennes;21;122;113;8;4;0;3;2;2;1;0;0;0;100;1;3
+Jonathan Clauss;fr FRA;DF,MF;Nice;33;368;284;83;11;1;2;47;40;32;10;12;0;275;1;7
+Maxime Colin;fr FRA;DF;Metz;33;107;91;16;3;0;0;2;13;0;0;0;0;92;0;1
+Francis Coquelin;fr FRA;MF;Nantes;34;69;67;2;2;0;1;0;0;0;0;0;0;59;0;1
+Derek Cornelius;ca CAN;DF;Marseille;27;14;14;0;0;0;0;0;0;0;0;0;0;12;0;0
+Félix Correia;pt POR;FW;Lille;24;195;184;11;5;1;4;23;5;1;0;1;0;140;0;11
+Grégoire Coudert;fr FRA;GK;Brest;26;83;60;23;6;0;0;0;0;0;0;0;0;52;0;0
+Lasso Coulibaly;ci CIV;MF,FW;Auxerre;23;39;36;2;0;1;1;1;2;0;0;0;0;31;1;3
+Mamadou Coulibaly;fr FRA;MF;Monaco;21;148;142;6;3;0;2;1;1;0;0;0;0;140;0;1
+Marius Courcoul;fr FRA;MF;Angers;18;33;33;0;0;0;0;0;0;0;0;0;0;23;0;1
+Nicolas Cozza;fr FRA;DF;Nantes;26;189;134;53;9;0;0;2;44;0;0;0;0;134;2;6
+Charlie Cresswell;eng ENG;DF;Toulouse;23;318;290;28;8;0;1;0;0;0;0;0;0;277;0;0
+Kévin Danois;fr FRA;MF;Auxerre;21;324;306;16;6;3;3;12;0;9;4;3;0;271;2;4
+Dante;br BRA;DF;Nice;42;87;75;12;6;0;1;0;0;0;0;0;0;79;0;0
+Mathys De Carvalho;fr FRA;MF,FW;Lyon;20;12;11;1;1;0;0;0;0;0;0;0;0;12;0;0
+Jeffrey De Lange;nl NED;GK;Marseille;27;32;27;5;3;0;0;0;0;0;0;0;0;30;0;0
+Théo De Percin;mq MTQ;GK;Auxerre;24;86;61;24;12;0;0;0;0;0;0;0;0;47;1;0
+Thibault De Smet;be BEL;DF;Paris FC;27;260;221;39;8;0;1;3;31;0;0;0;0;228;0;4
+Romain Del Castillo;fr FRA;FW,MF;Brest;29;232;197;35;13;3;0;38;7;14;8;4;0;149;0;10
+Thomas Delaine;fr FRA;DF;Le Havre;33;106;90;16;4;0;0;13;12;0;0;0;0;76;0;1
+Ousmane Dembélé;fr FRA;FW;Paris S-G;28;170;158;12;1;1;0;7;0;9;0;0;0;145;0;2
+Jessy Deminguet;fr FRA;MF;Metz;27;145;139;6;3;0;2;7;2;0;0;0;0;120;0;5
+Rémy Descamps;fr FRA;GK;Lyon;29;125;100;25;12;0;0;0;0;0;0;0;0;91;0;1
+Bahmed Deuff;mr MTN;MF;Nantes;19;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0
+Habib Diallo;sn SEN;FW;Metz;30;45;41;4;0;0;0;2;1;0;0;0;0;31;0;4
+Krépin Diatta;sn SEN;DF;Monaco;26;200;167;32;1;0;0;17;31;0;0;0;0;161;1;4
+Mory Diaw;sn SEN;GK;Le Havre;32;311;231;79;24;0;1;0;0;0;0;0;0;238;1;0
+Junior Diaz;ci CIV;DF;Brest;22;205;201;3;2;0;4;0;1;0;0;0;0;175;1;4
+Nouha Dicko;ml MLI;FW;Paris FC;33;8;7;1;0;1;0;0;0;0;0;0;0;5;0;0
+Bamba Dieng;sn SEN;FW;Lorient;25;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+Eric Dier;eng ENG;DF;Monaco;31;489;474;14;11;0;2;2;1;0;0;0;0;451;1;1
+Junior Dina Ebimbe;fr FRA;FW,MF;Brest;24;29;28;0;0;0;0;1;0;0;0;0;0;19;1;2
+Sérigné Diop;sn SEN;FW;Brest;20;3;2;1;0;0;0;1;0;1;0;1;0;2;0;1
+Sofiane Diop;fr FRA;MF,FW;Nice;25;206;193;13;1;3;3;6;3;3;3;0;0;159;0;7
+Andy Diouf;fr FRA;MF;Lens;22;40;37;3;2;0;0;0;0;1;0;0;0;33;0;1
+Yehvann Diouf;sn SEN;GK;Nice;25;248;198;49;15;0;1;0;1;0;0;0;0;189;1;0
+Assane Dioussé;sn SEN;MF;Auxerre;28;8;7;1;1;0;0;0;0;0;0;0;0;7;0;1
+Harouna Djibrin;cm CMR;FW;Angers;18;6;6;0;0;0;0;1;0;0;0;0;0;5;0;1
+Lohann Doucet;fr FRA;MF;Paris FC;23;41;40;0;0;0;1;0;0;0;0;0;0;38;1;0
+Fodé Doucouré;ml MLI;MF,FW;Le Havre;24;172;158;11;1;0;1;24;10;0;0;0;0;123;3;6
+Désiré Doué;fr FRA;FW,MF;Paris S-G;20;157;143;13;0;0;4;9;5;4;1;1;0;129;1;2
+Guela Doué;ci CIV;DF;Strasbourg;23;180;157;23;5;0;0;8;18;0;0;0;0;151;0;2
+Ismaël Doukouré;fr FRA;DF,MF;Strasbourg;22;397;369;25;11;2;2;1;5;0;0;0;0;350;3;6
+Kamory Doumbia;ml MLI;MF;Brest;22;206;180;26;2;2;0;14;3;14;7;5;0;162;0;1
+Aron Dønnum;no NOR;MF,FW;Toulouse;27;272;242;29;6;2;3;38;8;15;8;7;0;203;1;7
+Simon Ebonog;cm CMR;MF;Le Havre;21;62;59;3;0;1;0;1;1;0;0;0;0;51;0;0
+Noah Edjouma;fr FRA;FW,MF;Toulouse;20;48;46;2;0;1;0;7;1;1;0;0;0;33;0;2
+Odsonne Édouard;fr FRA;FW;Lens;27;33;29;4;0;1;0;0;0;0;0;0;0;29;0;0
+CJ Egan-Riley;eng ENG;DF;Marseille;22;196;188;8;3;1;1;1;4;0;0;0;0;182;0;1
+Jacques Ekomie;ga GAB;DF;Angers;22;185;152;31;3;0;0;20;28;0;0;0;0;138;2;4
+Breel Embolo;ch SUI;FW;Rennes;28;41;40;0;0;0;0;1;0;0;0;0;0;25;1;1
+Emanuel Emegha;nl NED;FW;Strasbourg;22;19;18;1;0;0;0;0;0;0;0;0;0;16;0;1
+Emersonn;br BRA;FW;Toulouse;21;12;11;1;0;0;0;0;0;0;0;0;0;9;0;1
+Julio Enciso;py PAR;MF;Strasbourg;21;28;25;2;0;0;0;0;0;0;0;0;0;18;1;3
+Ansu Fati;es ESP;MF,FW;Monaco;22;97;93;4;0;0;0;0;2;0;0;0;0;80;0;4
+Abdoulaye Faye;sn SEN;DF;Lorient;21;307;279;28;7;0;0;0;1;0;0;0;0;272;0;1
+Matias Fernandez-Pardo;be BEL;FW;Lille;20;161;155;6;0;2;0;17;1;5;1;2;0;126;0;8
+Jonathan Fischer;dk DEN;GK;Metz;23;288;256;32;10;0;0;0;0;0;0;0;0;253;0;0
+Malick Fofana;be BEL;FW;Lyon;20;215;210;5;1;2;1;23;4;0;0;0;0;162;0;17
+Rayan Fofana;fr FRA;FW;Lens;19;67;58;8;0;0;0;1;1;0;0;0;0;47;1;2
+Seko Fofana;ci CIV;MF;Rennes;30;290;286;3;3;0;2;4;0;0;0;0;0;260;1;1
+Przemysław Frankowski;pl POL;DF;Rennes;30;201;175;26;5;0;0;19;17;4;3;0;0;149;0;11
+Ismaëlo Ganiou;bf BFA;DF;Lens;20;45;43;2;2;0;0;1;0;0;0;0;0;38;0;0
+Ulisses Garcia;ch SUI;DF;Marseille;29;71;61;10;1;0;0;1;9;0;0;0;0;63;0;0
+Jean-Philippe Gbamin;ci CIV;DF;Metz;30;449;411;37;15;0;10;0;2;0;0;0;0;405;1;5
+Yann Gboho;fr FRA;FW,MF;Toulouse;24;134;133;1;0;3;0;7;0;0;0;0;0;97;0;7
+Willem Geubbels;fr FRA;FW;Paris FC;24;73;61;12;0;0;0;3;0;0;0;0;0;53;0;2
+Rachid Ghezzal;dz ALG;FW,MF;Lyon;33;38;34;4;1;0;0;5;0;3;2;0;0;26;0;1
+Olivier Giroud;fr FRA;FW;Lille;39;112;104;8;1;2;0;0;1;0;0;0;0;76;0;8
+Martial Godo;eng ENG;MF;Strasbourg;22;61;60;1;0;0;0;3;1;0;0;0;0;52;0;1
+Maxima Goffi;fr FRA;DF;Lille;17;28;22;6;1;0;0;1;5;0;0;0;0;22;0;1
+Aleksandr Golovin;ru RUS;FW,MF;Monaco;29;122;116;4;1;0;0;4;1;1;0;0;0;96;2;3
+Angel Gomes;eng ENG;MF;Marseille;25;418;410;6;3;2;2;2;2;1;0;1;0;379;2;3
+Rafael Gonçalves;pt POR;MF;Strasbourg;20;121;119;1;1;1;1;1;0;0;0;0;0;107;1;2
+Alimami Gory;ml MLI;FW,MF;Paris FC;29;32;29;3;0;0;0;1;3;0;0;0;0;29;0;2
+Amine Gouiri;dz ALG;FW,MF;Marseille;25;119;103;16;3;1;0;13;0;12;5;3;0;94;0;2
+Tiago Gouveia;pt POR;DF,FW;Nice;24;46;39;6;0;0;0;0;6;0;0;0;0;37;1;0
+Jonathan Gradit;fr FRA;DF;Lens;32;180;169;10;9;0;0;1;1;0;0;0;0;163;1;0
+Mason Greenwood;eng ENG;FW,MF;Marseille;24;391;354;35;8;3;12;35;5;20;8;10;0;306;2;9
+Dominik Greif;sk SVK;GK;Lyon;28;159;136;23;10;0;0;0;0;0;0;0;0;137;0;0
+Ismaël Guerti;fr FRA;MF;Metz;21;9;9;0;0;0;1;0;0;0;0;0;0;7;0;0
+Idrissa Guèye;sn SEN;FW;Metz;19;16;12;4;0;0;0;0;0;0;0;0;0;8;0;0
+Morgan Guilavogui;gn GUI;MF,FW;Lens;27;85;82;2;1;1;0;1;1;0;0;0;0;59;1;3
+Daouda Guindo;ml MLI;FW,DF;Brest;23;15;14;1;1;0;0;1;0;0;0;0;0;13;0;0
+Bahereba Guirassy;fr FRA;MF,FW;Nantes;19;60;59;0;0;0;0;2;0;0;0;0;0;33;1;7
+Achraf Hakimi;ma MAR;DF;Paris S-G;26;489;451;38;5;0;2;13;33;0;0;0;0;436;0;6
+Pierre-Yves Hamel;fr FRA;FW;Paris FC;31;9;7;2;0;0;0;0;0;0;0;0;0;6;0;0
+Florent Hanin;dz ALG;DF;Angers;35;128;108;20;3;0;1;8;17;0;0;0;0;96;0;1
+Hans Hateboer;nl NED;DF;Rennes;31;10;8;1;0;0;0;0;1;0;0;0;0;8;1;0
+Gauthier Hein;fr FRA;MF;Metz;29;362;314;46;11;1;11;29;3;18;8;6;0;305;2;7
+Lucas Hernández;fr FRA;DF;Paris S-G;29;401;364;37;7;0;5;0;30;0;0;0;0;376;0;1
+Santiago Hidalgo;ar ARG;FW;Toulouse;20;40;38;2;0;0;1;3;1;0;0;0;0;27;0;0
+Lukáš Hrádecký;fi FIN;GK;Monaco;35;106;87;18;5;0;0;0;0;0;0;0;0;78;1;0
+Kwon Hyeokkyu;kr KOR;MF;Nantes;24;80;76;3;3;0;0;0;0;0;0;0;0;71;1;1
+Hong Hyunseok;kr KOR;MF;Nantes;26;88;77;11;2;2;0;14;0;8;6;2;0;59;0;3
+Lucas Høgsberg;dk DEN;DF;Strasbourg;19;398;369;28;9;0;1;0;5;0;0;0;0;364;1;2
+Pierre Højbjerg;dk DEN;MF;Marseille;30;583;569;13;10;2;4;5;1;0;0;0;0;541;1;5
+Stanis Idumbo;be BEL;MF,DF;Monaco;20;35;31;4;2;0;0;1;2;0;0;0;0;33;0;0
+Hamza Igamane;ma MAR;FW,MF;Lille;22;38;36;1;0;0;0;1;1;0;0;0;0;25;1;1
+Jonathan Ikone;fr FRA;FW;Paris FC;27;17;17;0;0;0;0;0;0;0;0;0;0;16;0;1
+George Ilenikhena;ng NGA;FW,MF;Monaco;19;25;24;0;0;0;0;0;0;0;0;0;0;20;1;1
+Jérémy Jacquet;fr FRA;DF;Rennes;20;439;395;43;25;0;1;0;1;0;0;0;0;406;1;0
+Mathis Jangeal;fr FRA;MF;Paris S-G;17;9;9;0;0;0;0;0;0;0;0;0;0;9;0;0
+Isak Jansson;se SWE;MF,FW;Nice;23;62;62;0;0;0;0;4;0;0;0;0;0;43;0;5
+Karl-Johan Johnsson;se SWE;GK;Strasbourg;35;34;30;4;2;0;0;0;0;0;0;0;0;27;0;0
+Abdulai Juma Bah;sl SLE;DF;Nice;19;344;327;17;11;0;0;0;1;0;0;0;0;321;0;0
+Hamed Junior Traorè;ci CIV;MF,FW;Marseille;25;22;18;4;0;1;0;6;0;4;2;2;0;12;0;1
+Justin-Noël Kalumba;fr FRA;FW,MF;Angers;20;92;79;13;0;0;0;15;2;11;10;0;0;66;0;1
+Warren Kamanzi;no NOR;MF,DF;Toulouse;24;85;80;4;0;1;0;3;4;0;0;0;0;71;1;1
+Bingourou Kamara;sn SEN;GK;Lorient;28;74;59;15;6;0;0;0;0;0;0;0;0;60;0;2
+Lee Kang-in;kr KOR;MF,FW;Paris S-G;24;346;321;25;8;1;7;22;0;15;4;4;0;310;0;2
+Adam Karabec;cz CZE;FW;Lyon;22;176;150;26;8;1;1;36;2;16;11;5;0;122;0;4
+Dermane Karim;tg TOG;MF,FW;Lorient;21;150;142;6;4;1;0;5;1;1;0;0;0;120;2;5
+Panos Katseris;gr GRE;MF,DF;Lorient;24;77;68;9;0;0;0;11;9;0;0;0;0;59;0;1
+Ilan Kebbal;dz ALG;FW,MF;Paris FC;27;454;415;34;9;5;3;35;8;17;10;0;0;366;5;11
+Yassine Kechta;ma MAR;MF;Le Havre;23;155;143;12;0;2;0;12;1;3;2;1;0;118;0;5
+Thilo Kehrer;de GER;DF;Monaco;29;308;294;13;10;0;1;1;1;0;0;0;0;271;1;2
+Reda Khadra;de GER;FW,MF;Le Havre;24;29;24;5;0;0;0;7;0;5;3;2;0;18;0;3
+Ruben Kluivert;nl NED;DF;Lyon;24;87;85;2;2;0;0;1;0;0;0;0;0;79;0;0
+Hervé Koffi;bf BFA;GK;Angers;29;253;184;68;19;0;2;0;0;0;0;0;0;175;1;0
+Enzo Koffi Vinette;fr FRA;DF,FW;Le Havre;19;8;7;1;0;0;0;1;1;0;0;0;0;6;0;0
+Philipp Köhn;ch SUI;GK;Monaco;27;141;114;27;6;0;0;0;0;0;0;0;0;129;0;0
+Timothée Kolodziejczak;fr FRA;DF;Paris FC;34;86;84;2;2;0;0;0;0;0;0;0;0;77;0;0
+Geoffrey Kondogbia;cf CTA;MF,DF;Marseille;32;97;95;2;1;0;0;0;0;0;0;0;0;89;0;1
+Koffi Kouao;ci CIV;DF;Metz;27;310;283;27;5;0;2;14;22;0;0;0;0;266;0;6
+Arsène Kouassi;bf BFA;DF,MF;Lorient;21;265;214;50;7;0;0;34;34;9;3;5;0;210;1;6
+Seny Koumbassa;fr FRA;DF;Toulouse;18;2;2;0;0;0;0;0;0;0;0;0;0;2;0;0
+Hamza Koutoune;ma MAR;DF;Nice;19;6;6;0;0;0;0;1;0;0;0;0;0;5;0;0
+Jean-Philippe Krasso;ci CIV;FW;Paris FC;28;54;50;4;0;1;0;2;0;0;0;0;0;37;0;2
+Sael Kumbedi;fr FRA;DF;Lyon;20;17;14;3;0;0;0;1;3;0;0;0;0;9;0;0
+Khvicha Kvaratskhelia;ge GEO;FW,DF;Paris S-G;24;135;129;6;1;1;2;2;1;4;2;0;0;117;0;3
+Godson Kyeremeh;fr FRA;MF,FW;Le Havre;25;14;12;2;1;0;0;3;0;0;0;0;0;12;0;0
+Rémy Labeau Lascary;gp GLP;FW,MF;Brest;22;23;23;0;0;0;1;0;0;0;0;0;0;19;0;1
+Mayckel Lahdo;se SWE;MF,FW;Nantes;22;57;57;0;0;0;0;0;0;0;0;0;0;50;0;4
+Kenny Lala;mg MAD;DF;Brest;34;395;316;76;16;2;5;27;59;1;0;1;0;295;3;11
+Théo Le Bris;fr FRA;DF;Lorient;23;112;103;9;0;0;0;8;9;0;0;0;0;95;0;2
+Julien Le Cardinal;fr FRA;DF;Brest;28;120;117;3;3;0;0;0;0;0;0;0;0;97;0;0
+Raphael Le Guen;fr FRA;DF;Brest;19;4;2;2;0;0;0;0;2;0;0;0;0;2;0;0
+Pierre Lees-Melou;fr FRA;MF;Paris FC;32;247;241;4;4;2;6;1;0;0;0;0;0;220;2;2
+Pierre Lees-Melou;fr FRA;MF;Brest;32;103;92;11;5;0;2;5;1;0;0;0;0;81;0;1
+Jordan Lefort;fr FRA;DF;Angers;32;382;328;53;33;1;1;3;2;0;0;0;0;327;1;4
+Félix Lemaréchal;fr FRA;MF,FW;Strasbourg;22;211;195;16;5;0;0;13;0;6;2;4;0;163;0;4
+Donovan Léon;gf GUF;GK;Auxerre;32;154;116;38;19;0;0;0;0;0;0;0;0;80;0;1
+Esteban Lepaul;fr FRA;FW;Angers;25;36;33;3;0;0;3;0;0;0;0;0;0;22;0;0
+Esteban Lepaul;fr FRA;FW;Rennes;25;90;82;8;1;0;0;4;0;0;0;0;0;69;0;2
+Johann Lepenant;fr FRA;MF;Nantes;22;207;182;25;12;1;1;13;0;10;9;0;0;165;0;6
+Louis Leroux;fr FRA;MF,DF;Nantes;19;187;154;33;7;0;0;13;22;4;2;0;0;142;0;5
+Pol Lirola;es ESP;MF;Marseille;28;6;6;0;0;0;0;1;0;0;0;0;0;4;0;1
+Gautier Lloris;fr FRA;DF;Le Havre;30;471;450;20;17;0;2;0;0;0;0;0;0;437;1;2
+Danny Loader;cm CMR;MF,FW;Auxerre;25;133;129;3;0;1;0;2;1;0;0;0;0;101;1;2
+Bradley Locko;fr FRA;DF;Brest;23;275;212;62;6;0;1;13;56;0;0;0;0;210;1;6
+Anthony Lopes;pt POR;GK;Nantes;35;306;255;51;23;0;0;0;1;0;0;0;0;255;0;0
+Julien López;dz ALG;FW,MF;Paris FC;33;8;8;0;0;0;0;1;0;0;0;0;0;5;0;0
+Maxime Lopez;fr FRA;MF;Paris FC;27;630;599;30;14;2;2;28;4;12;8;2;0;562;1;7
+Tom Louchet;fr FRA;DF,MF;Nice;22;149;131;18;3;1;0;14;10;3;3;0;0;116;0;3
+Marius Louer;fr FRA;DF;Angers;18;13;11;2;1;0;0;2;1;0;0;0;0;11;0;0
+Deiver Machado;co COL;DF;Lens;32;96;77;19;1;0;1;4;18;0;0;0;0;78;0;1
+Lanroy Machine;fr FRA;FW,MF;Angers;20;25;24;0;0;1;0;2;0;0;0;0;0;17;1;2
+Brian Madjo;lu LUX;FW;Metz;16;15;14;1;0;0;0;0;0;0;0;0;0;8;0;3
+Hugo Magnetti;fr FRA;MF;Brest;27;209;201;8;5;0;1;1;2;0;0;0;0;176;0;7
+Frank Magri;cm CMR;FW;Toulouse;26;94;87;6;0;1;0;4;0;0;0;0;0;67;1;5
+Ainsley Maitland-Niles;eng ENG;DF;Lyon;28;406;358;48;8;0;1;19;40;0;0;0;0;340;0;6
+Radosław Majecki;pl POL;GK;Brest;25;163;109;54;19;0;1;0;0;0;0;0;0;99;0;0
+Hamidou Makalou;ml MLI;MF,FW;Brest;19;50;45;5;0;1;0;5;0;5;3;2;0;33;0;2
+Jean-Victor Makengo;fr FRA;MF;Lorient;27;71;70;1;1;0;0;1;0;0;0;0;0;60;0;1
+Felix Mambimbi;ch SUI;MF,FW;Le Havre;24;26;24;0;0;0;0;0;0;0;0;0;0;15;2;1
+Aïssa Mandi;dz ALG;DF;Lille;33;255;216;38;15;0;1;7;17;0;0;0;0;220;1;4
+Sekou Mara;fr FRA;FW;Auxerre;23;51;44;7;1;0;0;0;0;0;0;0;0;37;0;3
+Vincent Marchetti;fr FRA;MF;Paris FC;28;110;107;3;2;0;0;0;1;0;0;0;0;98;0;0
+Marquinhos;br BRA;DF;Paris S-G;31;187;178;9;2;0;1;1;7;0;0;0;0;176;0;0
+Clinton Mata;ao ANG;DF;Lyon;32;525;487;38;11;2;4;4;5;0;0;0;0;482;0;1
+Rudy Matondo;fr FRA;MF;Auxerre;17;37;37;0;0;0;0;0;0;0;0;0;0;32;0;1
+Christian Mawissa;fr FRA;DF;Monaco;20;335;313;22;8;0;1;1;2;0;0;0;0;317;0;3
+Senny Mayulu;fr FRA;MF,DF;Paris S-G;19;157;149;8;2;1;1;7;2;4;2;0;0;132;0;6
+Ethan Mbappé;fr FRA;FW;Lille;18;28;23;5;2;0;1;2;0;3;1;0;0;23;0;0
+Ibrahim Mbaye;fr FRA;FW;Paris S-G;17;251;248;3;0;0;0;7;1;0;0;0;0;215;0;3
+Chancel Mbemba;cd COD;DF;Lille;31;104;102;2;1;0;0;0;0;0;0;0;0;100;0;2
+Michel Mboula;ga GAB;DF;Metz;22;96;89;6;4;0;2;1;2;0;0;0;0;79;1;3
+Pathé Mboup;sn SEN;FW,MF;Brest;22;39;39;0;0;1;1;0;0;0;0;0;0;23;0;1
+Moustapha Mbow;sn SEN;DF;Paris FC;25;429;418;10;8;1;9;0;1;0;0;0;0;399;1;1
+Mark McKenzie;us USA;DF;Toulouse;26;299;266;32;8;1;1;1;23;0;0;0;0;256;1;2
+Facundo Medina;ar ARG;DF;Marseille;26;137;132;5;1;0;2;0;4;0;0;0;0;131;0;1
+Bamo Meïté;ci CIV;DF;Lorient;23;216;188;28;4;0;0;2;24;0;0;0;0;184;0;5
+Mohamed Meité;fr FRA;FW;Rennes;18;28;27;0;0;0;0;0;0;0;0;0;0;19;1;3
+Nuno Mendes;pt POR;DF;Paris S-G;23;265;225;39;3;1;4;13;26;10;2;6;0;235;1;2
+Antoine Mendy;sn SEN;DF;Nice;21;323;290;33;22;1;4;7;9;0;0;0;0;267;0;5
+Formose Mendy;sn SEN;DF;Lorient;24;92;84;7;3;0;4;1;4;0;0;0;0;78;1;1
+Gideon Mensah;gh GHA;DF;Auxerre;27;338;272;65;15;1;4;11;50;0;0;0;0;270;1;4
+Khalis Merah;fr FRA;FW,MF;Lyon;18;137;135;2;0;0;2;3;0;1;0;0;0;120;0;4
+Quentin Merlin;fr FRA;DF;Rennes;23;402;309;90;12;1;1;48;57;21;9;8;0;289;3;18
+Rafik Messali;fr FRA;MF;Toulouse;22;3;3;0;0;0;0;0;0;0;0;0;0;2;0;0
+Dayann Methalie;fr FRA;MF,DF;Toulouse;19;125;103;21;2;0;0;7;19;0;0;0;0;92;1;4
+Thomas Meunier;be BEL;DF;Lille;34;130;117;13;0;1;1;7;13;0;0;0;0;104;0;2
+Georges Mikautadze;ge GEO;FW;Lyon;24;32;32;0;0;0;0;0;0;0;0;0;0;27;0;0
+Takumi Minamino;jp JPN;MF,FW;Monaco;30;169;161;4;0;3;1;5;1;0;0;0;0;120;4;4
+Terem Moffi;ng NGA;FW;Nice;26;49;48;1;0;0;0;0;0;0;0;0;0;36;0;2
+Mostafa Mohamed;eg EGY;FW;Nantes;27;67;58;9;1;1;0;2;0;0;0;0;0;39;0;2
+Enzo Molebe;fr FRA;FW;Lyon;18;5;5;0;0;0;0;0;0;0;0;0;0;3;0;0
+Afonso Moreira;pt POR;FW;Lyon;20;26;23;3;0;0;0;10;0;3;3;0;0;16;0;1
+Diego Moreira;be BEL;DF,FW;Strasbourg;21;238;223;15;2;0;0;23;13;0;0;0;0;181;0;7
+Tyler Morton;eng ENG;MF;Lyon;22;408;346;60;20;3;3;43;4;34;20;11;0;334;2;8
+Daren Mosengo;fr FRA;MF;Le Havre;19;7;6;1;1;0;0;0;0;0;0;0;0;6;0;0
+Samir El Mourabet;ma MAR;MF;Strasbourg;20;274;265;9;4;2;0;5;1;3;1;0;2;243;0;2
+Louis Mouton;fr FRA;MF;Angers;23;132;123;9;1;3;2;12;1;7;2;4;0;92;0;4
+Ngal'Ayel Mukau;cd COD;MF,FW;Lille;20;101;97;3;1;1;1;1;0;0;0;0;0;90;1;1
+Nordan Mukiele;fr FRA;MF;Rennes;19;12;12;0;0;0;0;1;0;0;0;0;0;10;0;0
+Yvon Mvogo;ch SUI;GK;Lorient;31;148;115;32;21;0;1;0;0;0;0;0;0;108;1;0
+Joel Mvuka;no NOR;DF,MF;Lorient;22;80;76;4;0;0;0;5;4;0;0;0;0;60;0;3
+Junior Mwanga;fr FRA;DF,MF;Strasbourg;22;145;131;14;3;0;1;3;11;0;0;0;0;131;0;1
+Junior Mwanga;fr FRA;MF,DF;Nantes;22;168;161;7;5;0;3;0;2;0;0;0;0;151;0;1
+Bilal Nadir;ma MAR;MF,FW;Marseille;21;108;103;2;0;0;1;6;0;2;1;0;0;93;3;1
+Mahamadou Nagida;cm CMR;DF;Rennes;20;46;34;12;1;0;0;3;9;2;0;1;0;37;0;1
+Younes Namli;dk DEN;MF,FW;Le Havre;31;80;73;7;3;0;0;11;1;3;2;1;0;51;0;3
+Sebastian Nanasi;se SWE;MF;Strasbourg;23;24;23;1;0;1;0;1;1;0;0;0;0;21;0;1
+Rassoul Ndiaye;sn SEN;MF;Le Havre;23;169;159;10;4;0;1;15;3;2;2;0;0;140;0;8
+Quentin Ndjantou Mbitcha;fr FRA;MF;Paris S-G;18;93;91;2;0;0;0;3;2;0;0;0;0;75;0;4
+Joseph Nduquidi;fr FRA;MF;Metz;20;4;4;0;0;0;0;1;0;0;0;0;0;2;0;0
+Loïc Nego;hu HUN;DF;Le Havre;34;401;333;68;7;0;2;28;61;0;0;0;0;308;0;8
+João Neves;pt POR;MF;Paris S-G;21;189;182;7;2;0;1;0;5;0;0;0;0;180;0;2
+Mikayil Ngor Faye;sn SEN;DF;Rennes;21;9;9;0;0;0;0;0;0;0;0;0;0;7;0;0
+Nathan Ngoy;be BEL;DF;Lille;22;422;411;10;10;1;2;2;0;0;0;0;0;379;1;4
+Bernard Nguene;cm CMR;FW;Nice;19;11;10;1;0;0;0;1;0;0;0;0;0;7;0;1
+Moussa Niakhate;sn SEN;DF;Lyon;29;545;511;34;25;1;1;0;1;0;0;0;0;491;0;2
+Rasmus Nicolaisen;dk DEN;DF;Toulouse;28;154;139;15;4;0;4;1;11;0;0;0;0;121;0;1
+Obed Nkambadio;fr FRA;GK;Paris FC;22;246;193;53;12;0;1;0;0;0;0;0;0;199;0;0
+Rabby Nzingoula;fr FRA;MF;Strasbourg;19;3;3;0;0;0;0;0;0;0;0;0;0;2;0;1
+Matt O'Riley;dk DEN;MF;Marseille;24;238;228;9;3;0;2;1;0;2;0;0;0;210;1;1
+Andrew Omobamidele;ie IRL;DF;Strasbourg;23;93;90;3;0;0;0;0;0;0;0;0;0;90;0;0
+Fredrik Oppegard;no NOR;DF;Auxerre;23;80;63;17;3;0;1;11;13;1;0;1;0;55;0;2
+Gabriel Osho;ng NGA;DF;Auxerre;27;77;74;3;2;0;0;2;1;0;0;0;0;70;0;1
+Ibrahim Osman;gh GHA;MF,FW;Auxerre;20;72;70;2;0;0;0;3;0;0;0;0;0;51;0;7
+Abdoul Ouattara;fr FRA;DF,MF;Strasbourg;19;243;221;21;1;1;0;6;17;0;0;0;0;209;1;2
+Kassoum Ouattara;fr FRA;DF;Monaco;21;156;118;37;1;1;1;14;36;0;0;0;0;106;1;8
+Elisha Owusu;gh GHA;MF;Auxerre;27;227;225;2;1;0;2;1;1;0;0;0;0;183;0;5
+Berke Özer;tr TUR;GK;Lille;25;219;175;44;14;0;0;0;0;0;0;0;0;173;0;0
+Willian Pacho;ec ECU;DF;Paris S-G;24;307;302;5;2;0;2;0;1;0;0;0;0;300;0;0
+Kendry Páez;ec ECU;FW,MF;Strasbourg;18;114;106;6;1;2;0;13;0;5;3;2;0;75;2;4
+Pablo Pagis;fr FRA;FW,MF;Lorient;22;89;81;8;4;0;0;6;1;3;1;1;0;65;0;7
+Igor Paixão;br BRA;FW,MF;Marseille;25;124;122;2;0;0;1;4;2;0;0;0;0;102;0;1
+Emerson Palmieri;it ITA;DF;Marseille;31;220;195;24;4;1;0;11;16;4;3;1;0;190;1;4
+Joaquín Panichelli;ar ARG;FW;Strasbourg;23;142;136;6;0;0;0;0;0;0;0;0;0;111;0;5
+Benjamin Pavard;fr FRA;DF;Marseille;29;297;283;14;2;1;3;3;12;0;0;0;0;277;0;1
+Mike Penders;be BEL;GK;Strasbourg;20;296;263;33;15;0;0;0;0;0;0;0;0;248;0;1
+Kojo Peprah Oppong;gh GHA;DF;Nice;21;407;389;18;10;0;4;5;1;0;0;0;0;369;0;4
+Romain Perraud;fr FRA;DF;Lille;28;299;238;61;7;0;2;28;41;13;3;8;0;245;0;6
+Prosper Peter;ng NGA;FW;Angers;18;71;58;13;0;1;0;0;0;0;0;0;0;54;0;1
+Damián Pizarro;cl CHI;FW;Le Havre;20;3;3;0;0;0;0;0;0;0;0;0;0;2;0;0
+Adrien Rabiot;fr FRA;MF;Marseille;30;50;49;1;1;0;0;9;0;0;0;0;0;42;0;1
+Uroš Radaković;rs SRB;DF;Nantes;31;3;3;0;0;0;0;0;0;0;0;0;0;1;0;0
+Ugo Raghouber;fr FRA;FW;Lille;22;6;6;0;0;0;0;0;0;0;0;0;0;4;0;0
+Gonçalo Ramos;pt POR;FW;Paris S-G;24;130;130;0;0;1;0;0;0;0;0;0;0;101;0;6
+Lilian Raolisoa;fr FRA;FW,DF;Angers;25;185;172;13;3;1;2;25;1;9;4;4;0;121;0;8
+Guillaume Restes;fr FRA;GK;Toulouse;20;187;125;61;29;0;1;0;0;0;0;0;0;127;1;0
+Alexsandro Ribeiro;br BRA;DF;Lille;26;279;263;16;10;0;2;0;0;0;0;0;0;250;0;3
+Fabian Rieder;ch SUI;MF;Rennes;23;37;33;3;0;0;0;1;1;1;1;0;0;29;1;2
+Robin Risser;fr FRA;GK;Lens;20;234;173;61;16;0;0;0;0;0;0;0;0;175;0;0
+Valentin Rongier;fr FRA;MF;Rennes;30;358;356;2;2;1;1;3;0;0;0;0;0;317;0;5
+Pablo Rosario;do DOM;MF;Nice;28;17;16;0;0;0;0;0;0;0;0;0;0;15;1;0
+Anthony Rouault;fr FRA;DF;Rennes;24;406;390;15;6;1;0;0;5;0;0;0;0;367;1;3
+Jonathan Rowe;eng ENG;FW;Marseille;22;29;27;2;0;0;0;4;1;1;1;0;0;20;0;2
+Fabián Ruiz Peña;es ESP;MF;Paris S-G;29;418;406;12;7;1;3;4;4;0;0;0;0;382;0;5
+Gerónimo Rulli;ar ARG;GK;Marseille;33;205;171;34;15;0;1;0;1;0;0;0;0;158;0;1
+Osame Sahraoui;ma MAR;FW,MF;Lille;24;60;57;0;0;1;0;2;0;0;0;0;0;42;3;2
+Wesley Saïd;fr FRA;MF;Lens;30;135;134;1;1;1;1;5;0;0;0;0;0;104;0;4
+Mathis Saka;fr FRA;MF;Toulouse;19;5;5;0;0;0;0;0;0;0;0;0;0;2;0;0
+Ibrahim Salah;ma MAR;FW;Rennes;24;22;20;2;0;0;0;0;0;0;0;0;0;22;0;0
+Mohammed Salisu;gh GHA;DF;Monaco;26;298;289;8;4;0;0;0;0;0;0;0;0;271;1;3
+Mbwana Samatta;tz TAN;FW;Le Havre;32;84;77;7;0;1;1;2;0;0;0;0;0;58;0;4
+Mama Samba Baldé;gw GNB;FW;Brest;29;62;62;0;0;1;0;2;0;0;0;0;0;44;0;1
+Brice Samba;fr FRA;GK;Rennes;31;329;262;67;27;1;0;0;0;0;0;0;0;259;0;0
+Ibou Sané;sn SEN;FW,MF;Metz;20;47;45;2;0;0;0;7;0;2;0;2;0;38;0;0
+Sadibou Sané;sn SEN;DF;Metz;21;236;209;27;6;0;1;0;4;0;0;0;0;213;0;3
+Arouna Sangante;sn SEN;DF;Le Havre;23;420;402;17;13;0;1;0;3;0;0;0;0;372;1;3
+Mamadou Sangare;ml MLI;MF;Lens;23;252;243;8;8;0;5;0;0;0;0;0;0;211;1;4
+Nhoa Sangui;fr FRA;DF;Paris FC;19;175;150;25;4;0;0;7;21;0;0;0;0;152;0;1
+Morgan Sanson;fr FRA;MF,FW;Nice;31;46;45;1;0;0;0;5;1;0;0;0;0;36;0;0
+Tiago Santos;pt POR;DF;Lille;23;45;38;7;1;0;0;7;6;0;0;0;0;30;0;3
+Malang Sarr;fr FRA;DF;Lens;26;310;280;30;17;0;5;1;0;0;0;0;0;267;0;7
+Mamadou Sarr;fr FRA;DF;Strasbourg;20;373;346;27;14;0;1;0;6;0;0;0;0;349;0;0
+Martin Satriano;uy URU;FW;Lyon;24;63;54;8;0;0;0;3;0;0;0;0;0;57;1;0
+Mario Sauer;sk SVK;MF;Toulouse;21;123;111;12;3;0;0;4;0;3;1;1;0;101;0;4
+Alidu Seidu;gh GHA;DF;Rennes;25;239;213;25;5;0;1;5;20;0;0;0;0;216;1;2
+Ayumu Seko;jp JPN;MF,DF;Le Havre;25;220;217;3;3;0;1;1;0;0;0;0;0;173;0;6
+Marvin Senaya;tg TOG;DF;Auxerre;24;269;211;58;17;0;1;20;39;2;0;2;0;196;0;7
+Djibril Sidibé;fr FRA;DF,MF;Toulouse;33;202;181;20;4;2;0;12;16;0;0;0;0;143;1;5
+Francisco Sierralta;cl CHI;DF;Auxerre;28;277;265;11;8;0;1;0;0;0;0;0;0;248;1;3
+Caio Henrique Oliveira Silva;br BRA;DF;Monaco;28;325;260;64;8;0;0;32;42;14;7;4;0;247;1;3
+Abdallah Sima;sn SEN;MF;Lens;24;14;14;0;0;1;0;0;0;0;0;0;0;9;0;0
+Moses Simon;ng NGA;FW,MF;Paris FC;30;157;144;12;3;1;1;35;5;4;3;0;0;109;1;8
+Lassine Sinayoko;ml MLI;FW,MF;Auxerre;25;130;122;7;1;3;0;5;1;0;0;0;0;91;1;5
+Telli Siwe;fr FRA;DF;Auxerre;20;66;63;3;3;0;0;0;0;0;0;0;0;56;0;0
+Florian Sotoca;fr FRA;MF,FW;Lens;34;11;10;0;0;0;0;0;0;0;0;0;0;5;1;1
+Sambou Soumano;sn SEN;FW;Lorient;24;52;43;9;0;1;1;0;0;0;0;0;0;39;0;0
+Issa Soumaré;sn SEN;FW,MF;Le Havre;25;192;186;6;0;0;2;22;2;0;0;0;0;136;0;5
+Benjamin Stambouli;fr FRA;MF;Metz;35;232;224;4;3;2;3;3;1;0;0;0;0;182;4;3
+Pavel Šulc;cz CZE;MF,FW;Lyon;24;68;68;0;0;1;0;0;0;0;0;0;0;52;0;1
+Lamine Sy;mr MTN;DF;Auxerre;23;16;13;3;0;0;0;1;3;0;0;0;0;12;0;0
+Fodé Sylla;fr FRA;MF;Lens;19;41;40;1;1;0;0;0;0;0;0;0;0;33;0;0
+Musa Al-Taamari;jo JOR;FW,MF;Rennes;28;88;81;4;0;1;0;5;1;1;0;0;0;66;3;3
+Nicolás Tagliafico;ar ARG;DF;Lyon;33;236;197;37;3;0;0;8;33;1;0;0;0;198;2;7
+Montassar Talbi;tn TUN;DF;Lorient;27;316;300;16;11;0;0;2;0;0;0;0;0;290;0;2
+Tylel Tati;fr FRA;DF;Nantes;17;311;297;14;12;0;0;0;0;0;0;0;0;275;0;2
+Tanner Tessmann;us USA;MF;Lyon;24;372;358;14;10;2;8;5;4;0;0;0;0;322;0;7
+Jordan Teze;nl NED;MF,DF;Monaco;26;352;303;47;11;3;2;17;27;9;2;4;0;280;2;10
+Florian Thauvin;fr FRA;MF;Lens;32;255;226;28;8;1;5;38;1;18;7;8;0;179;1;5
+Adrien Thomasson;fr FRA;MF;Lens;31;330;289;39;15;3;4;27;3;21;10;7;1;252;2;14
+Cheikh Tidiane Sabaly;sn SEN;MF,FW;Metz;26;88;86;2;0;1;0;1;2;0;0;0;0;67;0;2
+Corentin Tolisso;fr FRA;MF,FW;Lyon;31;401;378;22;10;3;10;8;6;1;1;0;0;335;1;9
+Abdoulaye Touré;gn GUI;MF;Le Havre;31;148;146;1;0;1;0;4;0;0;0;0;0;125;1;3
+Alpha Touré;sn SEN;DF,MF;Metz;19;120;103;17;2;0;0;8;15;0;0;0;0;102;0;4
+Ousmane Toure;fr FRA;DF;Lille;20;29;21;8;0;0;0;0;8;0;0;0;0;23;0;1
+Boubacar Traoré;ml MLI;MF;Metz;24;244;238;6;6;0;3;1;0;0;0;0;0;212;0;4
+Hamari Traoré;ml MLI;DF;Paris FC;33;154;136;18;1;0;0;6;17;0;0;0;0;135;0;3
+Kevin Trapp;de GER;GK;Paris FC;35;35;27;8;1;0;0;0;0;0;0;0;0;28;0;0
+Heorhii Tsitaishvili;ge GEO;FW,DF;Metz;24;121;108;13;4;0;0;14;4;5;1;3;0;90;0;2
+Matthieu Udol;fr FRA;DF;Lens;29;299;268;29;4;0;1;15;25;0;0;0;0;230;2;10
+Vanderson;br BRA;DF;Monaco;24;148;127;21;1;0;4;13;20;0;0;0;0;120;0;5
+Charles Vanhoutte;be BEL;MF;Nice;27;254;239;10;9;0;2;4;0;1;1;0;0;206;5;4
+Robinio Vaz;fr FRA;FW,MF;Marseille;18;19;18;1;0;0;0;2;0;0;0;0;0;13;0;2
+Calvin Verdonk;id IDN;DF;Lille;28;138;115;22;8;0;0;7;13;1;0;1;0;106;1;2
+Arthur Vermeeren;be BEL;DF,MF;Marseille;20;28;28;0;0;0;0;0;0;0;0;0;0;28;0;0
+Vitinha;pt POR;MF;Paris S-G;25;702;674;27;17;2;3;8;4;1;1;0;0;657;1;4
+Alexis Vossah;fr FRA;MF;Toulouse;17;27;25;2;0;0;0;2;1;1;1;0;0;21;0;0
+Timothy Weah;us USA;DF,FW;Marseille;25;245;220;25;0;1;1;11;25;0;0;0;0;209;0;10
+Christopher Wooh;cm CMR;DF;Rennes;24;19;19;0;0;0;0;0;0;0;0;0;0;18;0;0
+Terry Yegbe;gh GHA;DF;Metz;24;301;268;33;11;0;4;3;20;0;0;0;0;250;0;3
+Bertuğ Yıldırım;tr TUR;FW;Rennes;23;4;4;0;0;1;0;0;0;0;0;0;0;2;0;0
+Darlin Yongwa;cm CMR;MF,DF;Lorient;25;44;37;7;1;0;0;3;6;0;0;0;0;31;0;1
+Etienne Youte Kinkoue;fr FRA;DF,MF;Le Havre;23;80;72;8;8;0;1;0;0;0;0;0;0;64;0;0
+Illia Zabarnyi;ua UKR;DF;Paris S-G;23;524;517;7;2;0;1;0;2;0;0;0;0;487;0;3
+Warren Zaïre-Emery;fr FRA;MF,DF;Paris S-G;19;528;511;17;6;2;2;4;11;0;0;0;0;493;0;10
+Denis Zakaria;ch SUI;MF;Monaco;28;185;183;2;2;1;2;2;0;0;0;0;0;170;0;1
+Luck Zogbé;ci CIV;FW,DF;Brest;20;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0
+Yanis Zouaoui;dz ALG;DF;Le Havre;31;359;251;105;23;0;1;49;65;17;14;3;0;247;3;7

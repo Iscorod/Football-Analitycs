@@ -1,0 +1,482 @@
+﻿Player;Nation;Pos;Squad;Age;Att;Live;Dead;FK;TB;Sw;Crs;TI;CK;In;Out;Str;Cmp;Off;Blocks
+Jones El-Abdellaoui;ma MAR;MF,FW;Celta Vigo;19;33;28;5;0;0;0;6;4;0;0;0;0;26;0;4
+Abdel Abqar;ma MAR;DF;Getafe;26;131;121;10;8;0;7;0;2;0;0;0;0;97;0;0
+Akor Adams;ng NGA;FW;Sevilla;25;62;57;5;0;0;0;5;0;0;0;0;0;35;0;6
+David Affengruber;at AUT;DF;Elche;24;542;518;24;17;0;4;1;1;0;0;0;0;488;0;0
+Julen Agirrezabala;es ESP;GK;Valencia;24;335;244;91;26;0;0;0;0;0;0;0;0;237;0;0
+Lucien Agoume;fr FRA;MF;Sevilla;23;383;365;13;10;2;5;4;2;1;0;0;0;302;5;8
+Marc Aguado;es ESP;MF;Elche;25;352;346;5;5;0;0;0;0;0;0;0;0;321;1;4
+Lucas Ahijado;es ESP;DF;Oviedo;30;193;149;43;0;2;2;4;43;0;0;0;0;146;1;5
+Joseph Aidoo;gh GHA;DF;Celta Vigo;30;36;34;2;1;0;0;0;0;0;0;0;0;33;0;1
+Ilias Akhomach;ma MAR;MF,FW;Villarreal;21;54;47;5;2;0;0;7;0;3;2;0;0;41;2;1
+David Alaba;at AUT;DF;Real Madrid;33;50;45;5;4;1;0;0;1;0;0;0;0;48;0;0
+Alexandre Alemão;br BRA;FW;Rayo Vallecano;27;78;71;5;0;1;0;1;0;0;0;0;0;46;2;4
+Carles Aleñá;es ESP;MF,FW;Alavés;27;340;296;44;16;0;2;36;3;25;8;6;0;272;0;5
+Trent Alexander-Arnold;eng ENG;DF;Real Madrid;27;141;120;19;1;0;1;10;16;2;1;1;0;111;2;2
+Alfon;es ESP;FW,DF;Sevilla;26;46;41;5;0;0;1;3;5;0;0;0;0;34;0;1
+Thiago Almada;ar ARG;MF,FW;Atlético Madrid;24;149;138;11;3;3;1;8;3;5;1;3;0;121;0;3
+Domingos André Ribeiro Almeida;pt POR;MF,FW;Valencia;25;81;74;7;2;0;1;6;0;5;3;1;0;67;0;1
+Marcos Alonso;es ESP;DF;Celta Vigo;34;485;445;37;22;4;5;6;12;0;0;0;0;429;3;6
+Adrià Altimira;es ESP;DF;Villarreal;24;8;7;1;1;0;0;0;0;0;0;0;0;8;0;0
+Sergi Altimira;es ESP;MF;Betis;24;283;272;11;10;1;0;1;1;0;0;0;0;261;0;1
+Carlos Álvarez;es ESP;MF;Levante;22;223;199;23;10;7;0;14;1;11;3;4;0;172;1;3
+Hugo Álvarez;es ESP;FW,MF;Celta Vigo;22;160;153;6;0;0;0;4;6;0;0;0;0;130;1;7
+Julián Álvarez;ar ARG;FW;Atlético Madrid;25;294;246;46;8;5;2;31;1;25;9;12;0;231;2;8
+Sofyan Amrabat;ma MAR;MF;Betis;29;263;252;11;9;0;4;2;1;1;0;0;0;234;0;5
+Miguel Ángel Rubio;es ESP;DF;Espanyol;27;44;40;4;1;0;0;0;0;0;0;0;0;36;0;0
+Antoniu;es ESP;FW;Espanyol;23;19;19;0;0;0;0;1;0;0;0;0;0;16;0;2
+Antony;br BRA;FW;Betis;25;314;290;24;9;0;4;27;7;8;5;2;0;241;0;8
+Mauro Arambarri;uy URU;MF;Getafe;30;228;224;3;2;0;1;4;0;1;1;0;0;170;1;7
+Jon Aramburu;ve VEN;DF;Real Sociedad;23;480;386;91;12;0;1;13;79;0;0;0;0;359;3;14
+Ronald Araújo;uy URU;DF;Barcelona;26;314;299;15;8;1;0;2;5;0;0;0;0;287;0;1
+Jesús Areso;es ESP;DF;Athletic Club;26;398;308;89;8;0;3;41;81;0;0;0;0;292;1;9
+Kervin Arriaga;hn HON;MF;Levante;27;202;195;6;6;1;2;2;0;0;0;0;0;170;1;4
+Takuma Asano;jp JPN;FW;Mallorca;30;46;46;0;0;0;0;3;0;0;0;0;0;30;0;2
+Raúl Asencio;es ESP;DF;Real Madrid;22;208;193;15;7;0;2;1;5;0;0;0;0;199;0;3
+Iago Aspas;es ESP;FW,MF;Celta Vigo;38;240;226;12;4;6;4;12;1;7;4;0;0;188;2;10
+Yaser Asprilla;co COL;FW,MF;Girona;21;128;111;17;5;0;2;30;0;11;3;6;0;90;0;5
+Ezequiel Ávila;ar ARG;FW,MF;Betis;31;13;11;2;1;0;0;1;0;1;0;1;0;10;0;0
+César Azpilicueta;es ESP;DF;Sevilla;36;306;252;54;15;0;1;6;39;0;0;0;0;259;0;2
+Alex Baena;es ESP;MF;Atlético Madrid;24;104;89;12;2;2;0;12;0;10;5;4;0;80;3;2
+Eric Bailly;ci CIV;DF;Oviedo;31;139;131;8;6;0;1;0;1;0;0;0;0;124;0;0
+Cédric Bakambu;cd COD;FW;Betis;34;17;16;1;0;0;0;1;0;0;0;0;0;11;0;0
+Alejandro Balde;es ESP;DF;Barcelona;22;282;251;31;3;0;0;6;28;0;0;0;0;257;0;2
+Iván Balliu;al ALB;DF;Rayo Vallecano;33;93;78;15;0;0;0;4;15;0;0;0;0;78;0;0
+Roony Bardghji;se SWE;FW;Barcelona;19;98;91;6;0;0;0;14;0;6;3;0;0;79;1;4
+Kike Barja;es ESP;MF,FW;Osasuna;28;32;27;5;0;0;1;12;3;2;2;0;0;16;0;3
+Ander Barrenetxea;es ESP;MF,FW;Real Sociedad;23;358;326;28;1;3;5;41;5;22;11;0;0;263;4;13
+Pablo Barrios;es ESP;MF;Atlético Madrid;22;545;534;10;7;5;3;13;2;0;0;0;0;462;1;8
+Marc Bartra;es ESP;DF;Betis;34;286;264;22;18;0;6;0;0;0;0;0;0;245;0;3
+Augusto Batalla;ar ARG;GK;Rayo Vallecano;29;382;317;65;24;0;3;0;0;0;0;0;0;254;0;1
+Samu Becerra;es ESP;DF,MF;Rayo Vallecano;19;14;14;0;0;0;0;2;0;0;0;0;0;12;0;0
+Sheraldo Becker;sr SUR;MF;Osasuna;30;31;29;1;0;0;0;7;1;0;0;0;0;17;1;2
+Donny van de Beek;nl NED;MF;Girona;28;14;13;1;0;0;0;0;1;0;0;0;0;13;0;0
+Ismael Bekhoucha;ma MAR;DF;Getafe;20;24;23;1;0;0;0;4;1;0;0;0;0;14;0;3
+Héctor Bellerín;es ESP;DF;Betis;30;503;442;59;3;0;1;14;56;0;0;0;0;433;2;10
+Jude Bellingham;eng ENG;MF;Real Madrid;22;155;148;4;4;1;0;2;0;0;0;0;0;132;3;2
+Fran Beltrán;es ESP;MF;Celta Vigo;26;119;117;2;1;0;1;2;0;1;1;0;0;107;0;2
+Lucas Beltrán;ar ARG;FW;Valencia;24;63;57;6;0;0;0;1;0;0;0;0;0;49;0;3
+Carlos Benavídez;uy URU;MF;Alavés;27;16;16;0;0;0;0;0;0;0;0;0;0;14;0;0
+Iker Benito;es ESP;DF,FW;Osasuna;23;93;80;13;0;0;1;5;13;0;0;0;0;73;0;1
+Yuri Berchiche;es ESP;DF;Athletic Club;35;625;525;98;13;0;4;22;85;0;0;0;0;522;2;11
+Álex Berenguer;es ESP;FW,MF;Athletic Club;30;253;185;68;26;1;0;54;4;34;10;14;0;181;0;3
+Marc Bernal;es ESP;MF;Barcelona;18;12;12;0;0;1;0;0;0;0;0;0;0;10;0;0
+Pedro Bigas;es ESP;DF;Elche;35;665;582;80;50;0;9;11;15;0;0;0;0;589;3;0
+Antonio Blanco;es ESP;MF;Alavés;25;519;494;23;13;0;7;9;0;1;0;1;0;428;2;6
+Daley Blind;nl NED;DF;Girona;35;559;496;59;17;1;7;4;7;0;0;0;0;497;4;2
+Adam Boayar;ma MAR;MF;Elche;20;9;9;0;0;0;0;0;0;0;0;0;0;9;0;0
+Adama Boiro;es ESP;DF;Athletic Club;23;45;41;4;1;0;0;2;3;0;0;0;0;41;0;0
+Rahim Bonkano;ne NIG;DF;Oviedo;23;409;329;79;5;0;0;31;74;0;0;0;0;316;1;13
+Lucas Boyé;ar ARG;FW,MF;Alavés;29;106;102;3;0;0;0;2;0;0;0;0;0;70;1;10
+Enzo Boyomo;cm CMR;DF;Osasuna;24;473;452;21;11;0;4;6;10;0;0;0;0;384;0;6
+Josip Brekalo;hr CRO;FW;Oviedo;27;149;136;12;5;2;2;9;2;5;2;1;0;110;1;4
+Abel Bretones;es ESP;DF,MF;Osasuna;25;274;213;61;2;2;0;10;59;0;0;0;0;199;0;13
+Brugui;es ESP;MF;Levante;28;159;155;3;0;0;1;7;1;0;0;0;0;126;1;7
+Tajon Buchanan;ca CAN;MF;Villarreal;26;202;192;10;3;0;0;8;7;0;0;0;0;165;0;7
+Ante Budimir;hr CRO;FW;Osasuna;34;150;147;3;1;1;0;1;1;0;0;0;0;87;0;8
+Manu Bueno;es ESP;MF;Sevilla;21;6;6;0;0;0;0;1;0;0;0;0;0;5;0;0
+Jorge Cabello;es ESP;DF;Levante;21;51;49;2;2;0;0;0;0;0;0;0;0;42;0;0
+Leandro Cabrera;uy URU;DF;Espanyol;34;378;357;20;17;0;6;3;3;0;0;0;0;308;1;2
+Calebe;br BRA;MF,DF;Alavés;25;87;82;5;0;2;0;7;1;4;0;2;0;68;0;1
+Fernando Calero;es ESP;DF;Espanyol;30;271;261;10;6;0;2;0;0;0;0;0;0;236;0;0
+Duje Ćaleta-Car;hr CRO;DF;Real Sociedad;29;447;430;17;12;2;4;0;0;0;0;0;0;408;0;0
+Dani Calvo;es ESP;DF;Oviedo;31;269;239;30;13;0;2;1;1;0;0;0;0;243;0;3
+Dawda Camara;mr MTN;FW;Girona;22;10;6;4;0;0;0;0;0;0;0;0;0;7;0;1
+Eduardo Camavinga;fr FRA;MF;Real Madrid;22;150;144;6;5;0;2;1;1;0;0;0;0;135;0;2
+Sergio Camello;es ESP;FW,MF;Rayo Vallecano;24;41;35;5;2;0;0;0;0;0;0;0;0;34;1;0
+Sergi Cardona;es ESP;DF;Villarreal;26;404;323;81;8;1;0;32;73;0;0;0;0;322;0;7
+Fábio Cardoso;pt POR;DF;Sevilla;31;32;31;1;1;0;0;0;0;0;0;0;0;26;0;0
+Johnny Cardoso;us USA;MF;Atlético Madrid;24;111;110;1;1;1;0;2;0;0;0;0;0;94;0;1
+David Carmo;ao ANG;DF;Oviedo;26;327;313;13;9;0;2;0;1;0;0;0;0;281;1;2
+Carmona;es ESP;DF,MF;Sevilla;23;395;331;63;10;0;3;9;53;0;0;0;0;321;1;5
+Sergio Carreira;es ESP;MF,DF;Celta Vigo;25;381;315;66;3;0;1;11;63;0;0;0;0;315;0;9
+Álvaro Carreras;es ESP;DF;Real Madrid;22;760;678;81;13;0;5;10;68;0;0;0;0;676;1;7
+Dani Carvajal;es ESP;DF;Real Madrid;33;261;225;33;5;0;0;2;28;0;0;0;0;232;3;6
+Marc Casado;es ESP;MF;Barcelona;22;320;310;9;8;1;1;0;0;0;0;0;0;299;1;4
+Castrin;es ESP;DF;Sevilla;22;251;241;10;9;0;3;0;1;0;0;0;0;229;0;0
+Jonny Castro;es ESP;DF;Alavés;31;642;533;106;17;2;2;9;89;0;0;0;0;555;3;3
+Catena;es ESP;DF;Osasuna;31;481;451;30;26;0;7;1;0;0;0;0;0;407;0;1
+Santi Cazorla;es ESP;MF,FW;Oviedo;40;131;111;20;7;0;3;15;0;12;8;4;0;100;0;3
+Dani Ceballos;es ESP;MF;Real Madrid;29;206;193;13;8;0;1;3;1;4;0;1;0;195;0;4
+Ilyas Chaira;ma MAR;FW,MF;Oviedo;24;156;152;2;0;0;0;9;1;1;0;0;0;133;2;2
+Pep Chavarría;es ESP;DF;Rayo Vallecano;27;558;456;99;6;3;2;29;93;0;0;0;0;447;3;20
+Andreas Christensen;dk DEN;DF;Barcelona;29;290;272;18;14;0;0;0;1;0;0;0;0;279;0;2
+Víctor Chust;es ESP;DF;Elche;25;350;317;32;15;0;3;2;14;0;0;0;0;304;1;4
+Pathé Ciss;sn SEN;MF,DF;Rayo Vallecano;31;460;439;20;13;0;6;0;0;0;0;0;0;411;1;1
+Santiago Colombatto;ar ARG;MF;Oviedo;28;198;178;20;9;1;2;12;2;9;2;6;0;164;0;4
+Eray Cömert;ch SUI;DF;Valencia;27;3;3;0;0;0;0;0;0;0;0;0;0;2;0;0
+Santi Comesaña;es ESP;MF;Villarreal;29;308;303;4;3;4;1;5;0;0;0;0;0;260;1;4
+Copete;es ESP;DF;Valencia;26;290;273;17;13;0;5;1;0;0;0;0;0;251;0;3
+Thierry Correia;pt POR;DF;Valencia;26;167;141;26;5;0;1;5;21;0;0;0;0;133;0;2
+Coba da Costa;es ESP;MF,FW;Getafe;23;81;80;0;0;0;0;14;0;0;0;0;0;44;1;2
+Samu Costa;pt POR;MF;Mallorca;24;254;247;7;7;0;2;7;0;0;0;0;0;195;0;8
+David Costas;es ESP;DF;Oviedo;30;153;140;12;8;0;3;0;2;0;0;0;0;135;1;0
+Thibaut Courtois;be BEL;GK;Real Madrid;33;316;254;61;15;0;1;0;0;0;0;0;0;240;1;0
+Juan Cruz Armada;es ESP;DF;Osasuna;33;185;161;24;6;0;1;3;18;0;0;0;0;158;0;2
+Pau Cubarsí;es ESP;DF;Barcelona;18;572;544;28;24;1;1;0;2;0;0;0;0;534;0;1
+Cucho;co COL;FW;Betis;26;229;212;17;0;0;6;9;1;0;0;0;0;165;0;7
+Pablo Cuñat;es ESP;GK;Levante;23;71;39;32;6;0;0;0;0;0;0;0;0;43;0;1
+Arnaut Danjuma;nl NED;FW,MF;Valencia;28;168;162;6;0;2;3;16;0;3;0;3;0;123;0;5
+Sergi Darder;es ESP;MF,FW;Mallorca;31;371;312;57;14;1;7;46;5;20;12;6;1;291;2;8
+Davinchi;es ESP;DF;Getafe;18;214;159;54;0;0;0;12;54;0;0;0;0;140;1;8
+Leander Dendoncker;be BEL;MF;Oviedo;30;300;288;11;7;0;3;3;3;0;0;0;0;256;1;2
+Nelson Deossa;co COL;MF;Betis;25;49;45;4;4;0;1;2;0;0;0;0;0;45;0;0
+Bambo Diaby;sn SEN;DF;Elche;27;30;25;5;4;0;0;0;1;0;0;0;0;29;0;0
+Mouctar Diakhaby;gn GUI;DF;Valencia;28;248;236;10;9;0;0;0;1;0;0;0;0;213;2;0
+Grady Diangana;cd COD;MF,FW;Elche;27;48;45;3;2;0;0;3;1;0;0;0;0;39;0;1
+Moussa Diarra;ml MLI;DF;Alavés;24;93;64;29;1;0;1;1;28;0;0;0;0;61;0;4
+Brahim Díaz;ma MAR;FW,MF;Real Madrid;26;102;98;4;1;1;0;4;2;1;0;0;0;93;0;3
+Pedro Díaz;es ESP;MF,FW;Rayo Vallecano;27;263;258;4;0;1;0;12;1;3;1;1;0;217;1;11
+Matías Dituro;ar ARG;GK;Elche;38;308;267;41;19;0;2;0;0;0;0;0;0;242;0;1
+Djené;tg TOG;DF;Getafe;33;210;203;7;6;0;0;0;0;0;0;0;0;158;0;2
+Marko Dmitrović;rs SRB;GK;Espanyol;33;311;222;88;34;0;2;0;0;0;0;0;0;191;1;1
+Tyrhys Dolan;eng ENG;FW,MF;Espanyol;23;192;185;6;3;1;0;34;0;3;0;3;0;132;1;3
+Marc Domenech;es ESP;FW,MF;Mallorca;19;41;39;0;0;0;0;7;0;0;0;0;0;20;2;5
+Carlos Dominguez;es ESP;DF;Celta Vigo;24;295;289;6;6;0;1;0;0;0;0;0;0;275;0;0
+John Donald;es ESP;MF,DF;Elche;25;111;102;9;2;0;0;0;7;0;0;0;0;97;0;3
+Domingos Duarte;pt POR;DF;Getafe;30;190;175;14;13;0;1;0;1;0;0;0;0;140;1;0
+Pablo Durán;es ESP;FW,MF;Celta Vigo;24;107;104;3;0;1;1;3;0;0;0;0;0;67;0;5
+Hugo Duro;es ESP;FW;Valencia;25;128;115;12;0;1;0;0;0;0;0;0;0;94;1;2
+Ovie Ejaria;eng ENG;MF;Oviedo;27;66;62;4;3;1;0;0;0;0;0;0;0;57;0;2
+Chidera Ejuke;ng NGA;FW,MF;Sevilla;27;89;88;1;0;2;3;4;1;0;0;0;0;70;0;4
+Unai Elgezabal;es ESP;DF;Levante;32;277;267;8;8;0;0;0;0;0;0;0;0;243;2;1
+Aritz Elustondo;es ESP;DF;Real Sociedad;31;46;40;6;0;0;0;2;6;0;0;0;0;38;0;3
+Aarón Escandell;es ESP;GK;Oviedo;30;355;272;82;25;0;1;0;0;0;0;0;0;256;1;0
+Carlos Espí;es ESP;FW;Levante;20;9;9;0;0;0;0;0;0;0;0;0;0;6;0;0
+Alfonso Espino;uy URU;DF,FW;Rayo Vallecano;33;103;87;16;0;2;0;6;16;0;0;0;0;74;0;3
+Marco Esteban;es ESP;DF;Oviedo;19;13;12;1;1;0;0;0;0;0;0;0;0;11;0;0
+Karl Etta Eyong;cm CMR;FW;Villarreal;22;29;28;0;0;0;0;0;0;0;0;0;0;23;1;1
+Karl Etta Eyong;cm CMR;FW;Levante;22;89;81;7;0;0;0;1;0;0;0;0;0;60;1;2
+Edu Expósito;es ESP;MF;Espanyol;29;348;290;56;19;3;1;67;3;31;13;13;2;257;2;6
+Abde Ezzalzouli;ma MAR;FW;Betis;23;179;173;5;1;1;1;12;4;0;0;0;0;137;1;9
+Omar Falah;es ESP;DF,MF;Oviedo;22;9;7;2;0;0;1;0;2;0;0;0;0;8;0;1
+Aleix Febas;es ESP;MF;Elche;29;626;617;7;3;2;0;5;1;0;0;0;0;566;2;5
+Luiz Felipe;it ITA;DF;Rayo Vallecano;28;119;106;13;1;0;1;0;0;0;0;0;0;110;0;0
+Kiko Femenía;es ESP;DF,FW;Getafe;34;215;171;43;4;0;0;12;39;0;0;0;0;169;1;5
+Manu Fernández;es ESP;DF;Celta Vigo;24;291;283;8;5;1;1;0;3;0;0;0;0;263;0;2
+Pedro Fernandez;es ESP;MF;Barcelona;17;25;23;2;0;0;0;0;0;0;0;0;0;23;0;1
+Pelayo Fernandez;es ESP;DF;Rayo Vallecano;22;35;33;2;1;0;0;0;0;0;0;0;0;30;0;0
+Roberto Férnandez;es ESP;FW;Espanyol;23;125;115;9;0;0;0;1;0;0;0;0;0;89;1;4
+Toni Fernández;es ESP;FW;Barcelona;17;9;9;0;0;0;0;0;0;0;0;0;0;7;0;1
+Junior Firpo;do DOM;DF;Betis;29;280;237;43;3;0;0;11;40;0;0;0;0;225;0;6
+Álex Forés;es ESP;FW;Oviedo;24;25;20;5;0;0;0;1;1;0;0;0;0;17;0;1
+Pablo Fornals;es ESP;MF;Betis;29;577;533;41;17;5;11;36;5;18;8;7;0;478;3;13
+Héctor Fort;es ESP;DF;Elche;19;39;36;3;0;0;0;0;3;0;0;0;0;31;0;2
+Dimitri Foulquier;fr FRA;DF;Valencia;32;362;292;69;8;0;2;7;61;0;0;0;0;309;1;7
+Juan Foyth;ar ARG;DF;Villarreal;27;295;282;13;7;1;0;0;0;0;0;0;0;273;0;0
+Alejandro Francés;es ESP;DF;Girona;23;159;148;9;9;1;4;2;0;0;0;0;0;119;2;2
+Jorge de Frutos;es ESP;FW,MF;Rayo Vallecano;28;139;131;7;0;1;1;12;1;0;0;0;0;98;1;9
+Javi Galán;es ESP;DF;Atlético Madrid;30;70;60;9;0;0;0;5;9;0;0;0;0;56;1;3
+Iñigo Ruiz de Galarreta;es ESP;MF;Athletic Club;32;303;295;7;6;4;4;9;0;0;0;0;0;245;1;4
+Conor Gallagher;eng ENG;MF;Atlético Madrid;25;185;180;4;2;1;0;6;1;1;0;0;0;163;1;1
+Facundo Garcés;my MAS;DF;Alavés;26;214;200;13;12;0;1;0;1;0;0;0;0;178;1;0
+Álvaro García;es ESP;MF,FW;Rayo Vallecano;33;219;209;7;0;2;1;35;4;1;0;0;0;124;3;16
+Eric García;es ESP;DF;Barcelona;24;709;674;32;8;2;1;6;24;0;0;0;0;643;3;7
+Fran Garcia;es ESP;DF,MF;Real Madrid;26;78;67;10;2;0;0;5;8;0;0;0;0;63;1;1
+Gonzalo García;es ESP;FW,MF;Real Madrid;21;38;37;1;0;0;0;0;0;0;0;0;0;34;0;1
+Joan García;es ESP;GK;Barcelona;24;181;162;19;5;0;0;0;0;0;0;0;0;169;0;0
+Pablo Garcia;es ESP;FW;Betis;19;54;54;0;0;0;1;1;0;0;0;0;0;43;0;2
+Rubén García;es ESP;FW,MF;Osasuna;32;185;167;17;9;1;4;14;1;7;2;4;0;150;1;3
+Víctor García;es ESP;MF,DF;Levante;28;60;46;12;0;0;0;5;12;0;0;0;0;34;2;2
+Gavi;es ESP;MF,DF;Barcelona;21;68;67;1;1;0;0;1;0;0;0;0;0;63;0;1
+Paulo Gazzaniga;ar ARG;GK;Girona;33;305;244;59;15;0;1;0;0;0;0;0;0;209;2;0
+Mourad El Ghezouani;ma MAR;FW;Elche;27;15;15;0;0;0;0;0;0;0;0;0;0;11;0;1
+Bryan Gil;es ESP;FW,MF;Girona;24;103;95;7;2;0;1;7;1;4;3;0;0;77;1;2
+Moi Gómez;es ESP;MF;Osasuna;31;416;392;23;13;1;3;15;0;3;1;2;0;360;1;4
+Sergio Gómez;es ESP;DF;Real Sociedad;25;530;451;78;18;0;0;45;47;13;9;1;0;430;1;7
+Unai Gómez;es ESP;MF,FW;Athletic Club;22;60;55;5;2;0;0;9;0;1;1;0;0;40;0;4
+Valentín Gómez;ar ARG;DF;Betis;22;232;223;9;8;0;2;0;1;0;0;0;0;209;0;4
+Nicolás González;ar ARG;MF,FW;Atlético Madrid;27;204;194;10;1;2;2;11;9;0;0;0;0;151;0;10
+Urko González;es ESP;MF;Espanyol;24;132;131;1;1;0;0;1;0;0;0;0;0;108;0;4
+Urko González;es ESP;MF;Real Sociedad;24;4;4;0;0;0;0;0;0;0;0;0;0;4;0;0
+Andoni Gorosabel;es ESP;DF;Athletic Club;29;48;41;6;0;0;0;2;6;0;0;0;0;39;1;3
+Jon Gorrotxategi;es ESP;MF;Real Sociedad;23;369;360;7;7;1;2;0;0;0;0;0;0;307;2;6
+Mikel Goti;es ESP;MF;Real Sociedad;23;23;23;0;0;0;0;3;0;0;0;0;0;11;0;3
+Antoine Griezmann;fr FRA;FW,MF;Atlético Madrid;34;241;219;21;7;2;3;22;1;10;3;4;0;196;1;4
+Nemanja Gudelj;rs SRB;MF;Sevilla;33;249;236;11;8;0;5;3;3;0;0;0;0;212;2;5
+Gonçalo Guedes;pt POR;MF,FW;Real Sociedad;28;154;145;7;2;0;0;21;3;2;0;0;0;105;2;5
+Javier Guerra;es ESP;MF;Valencia;22;298;288;10;3;3;1;10;3;3;0;2;0;228;0;10
+Daniel Guerrero;es ESP;MF;Betis;20;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0
+Ander Guevara;es ESP;MF;Alavés;28;136;128;6;5;0;0;2;0;0;0;0;0;105;2;4
+Pape Gueye;sn SEN;MF;Villarreal;26;377;370;4;4;5;4;4;0;0;0;0;0;310;3;1
+Arda Güler;tr TUR;MF;Real Madrid;20;455;408;44;18;8;4;31;0;26;9;9;0;394;3;8
+Gerard Gumbau;es ESP;MF,FW;Rayo Vallecano;30;31;30;1;0;0;0;1;0;1;0;1;0;21;0;2
+Jon Guridi;es ESP;MF,FW;Alavés;30;132;127;3;0;0;0;3;2;0;0;0;0;104;2;3
+Gorka Guruzeta;es ESP;FW,MF;Athletic Club;29;105;100;5;1;1;1;1;1;0;0;0;0;80;0;2
+Dávid Hancko;sk SVK;DF;Atlético Madrid;27;446;400;42;9;0;5;14;29;0;0;0;0;367;4;3
+Haissem Hassan;fr FRA;FW,MF;Oviedo;23;186;178;6;0;0;7;28;4;2;1;0;0;136;2;7
+Jorge Herrando;es ESP;DF;Osasuna;24;102;98;4;2;0;0;0;2;0;0;0;0;87;0;3
+Sergio Herrera;es ESP;GK;Osasuna;32;334;215;119;30;0;0;0;0;0;0;0;0;242;0;0
+Yangel Herrera;ve VEN;MF;Girona;27;46;44;2;1;0;0;2;1;0;0;0;0;35;0;1
+Yangel Herrera;ve VEN;MF;Real Sociedad;27;25;22;2;2;0;1;0;0;0;0;0;0;17;1;1
+Omar El Hilali;ma MAR;DF;Espanyol;22;426;352;72;7;0;3;17;65;0;0;0;0;337;2;4
+Ali Houary;ma MAR;MF;Elche;20;54;53;0;0;0;0;0;0;0;0;0;0;47;1;0
+Dean Huijsen;es ESP;DF;Real Madrid;20;546;533;13;8;0;13;1;4;0;0;0;0;482;0;3
+Pablo Ibáñez;es ESP;MF;Alavés;27;332;318;14;9;1;4;12;3;0;0;0;0;276;0;11
+Stanis Idumbo;be BEL;MF;Sevilla;20;11;11;0;0;0;0;0;0;0;0;0;0;7;0;0
+Iglesias;es ESP;DF;Getafe;27;284;207;76;16;1;5;10;60;0;0;0;0;170;1;10
+Borja Iglesias;es ESP;FW;Celta Vigo;32;129;113;15;0;1;1;1;0;0;0;0;0;93;1;2
+Luka Ilić;rs SRB;MF,FW;Oviedo;26;144;135;8;5;1;0;6;0;3;3;0;0;107;1;7
+Urko Izeta;es ESP;MF;Athletic Club;26;16;15;1;0;0;0;2;0;0;0;0;0;9;0;2
+Jairo Izquierdo;es ESP;MF,DF;Elche;32;17;16;1;0;0;0;3;1;0;0;0;0;12;0;0
+Adnan Januzaj;be BEL;FW,MF;Sevilla;30;68;61;5;3;0;4;8;0;2;2;0;0;51;2;1
+Mikel Jauregizar;es ESP;MF;Athletic Club;21;494;462;29;20;2;3;24;0;9;4;0;1;390;3;6
+Jofre;es ESP;FW,MF;Espanyol;24;33;33;0;0;0;0;6;0;0;0;0;0;21;0;3
+Frenkie de Jong;nl NED;MF;Barcelona;28;582;561;19;17;0;2;3;2;0;0;0;0;544;2;6
+Josan;es ESP;DF,FW;Elche;35;110;98;12;0;0;0;23;4;8;1;2;0;87;0;5
+Mateo Joseph;es ESP;FW;Mallorca;22;94;93;1;1;0;0;5;0;0;0;0;0;77;0;1
+Juanmi;es ESP;FW;Getafe;32;5;4;1;0;0;0;0;0;0;0;0;0;4;0;1
+Luiz Lúcio Reis Júnior;br BRA;GK;Villarreal;24;152;123;29;4;0;0;0;0;0;0;0;0;124;0;0
+Vinicius Júnior;br BRA;FW,MF;Real Madrid;25;338;330;8;2;2;6;14;3;3;0;0;0;277;0;6
+Ferran Jutglà;es ESP;FW,MF;Celta Vigo;26;115;110;4;0;1;0;8;0;0;0;0;0;85;1;7
+Abu Kamara;eng ENG;FW,MF;Getafe;22;25;24;1;0;0;0;1;1;0;0;0;0;13;0;2
+Jon Karrikaburu;es ESP;FW,MF;Real Sociedad;23;11;11;0;0;0;0;1;0;0;0;0;0;6;0;2
+Kiké;es ESP;FW;Espanyol;35;96;91;5;0;1;1;4;0;0;0;0;0;59;0;9
+Koke;es ESP;MF;Atlético Madrid;33;512;501;11;9;1;8;6;2;0;0;0;0;472;0;6
+Luca Koleosho;it ITA;MF,FW;Espanyol;21;31;27;4;0;0;0;5;2;2;0;1;0;25;0;0
+Jules Koundé;fr FRA;DF;Barcelona;26;556;490;66;11;1;3;12;55;0;0;0;0;488;0;10
+Lancinet Kourouma;gn GUI;MF;Girona;21;6;6;0;0;0;0;0;0;0;0;0;0;4;0;0
+Goduine Koyalipou;cf CTA;FW;Levante;25;34;34;0;0;1;0;1;0;0;0;0;0;20;0;1
+Vladyslav Krapyvtsov;ua UKR;GK;Girona;20;47;31;16;5;0;0;0;0;0;0;0;0;33;0;0
+Ladislav Krejčí;cz CZE;DF;Girona;26;104;101;3;0;0;0;0;0;0;0;0;0;92;0;0
+Takefusa Kubo;jp JPN;MF,FW;Real Sociedad;24;182;169;12;0;1;0;20;0;12;8;1;0;132;1;9
+Marash Kumbulla;al ALB;DF;Mallorca;25;148;137;11;4;0;0;1;1;0;0;0;0;121;0;5
+Adrián de la Fuente;es ESP;DF;Levante;26;325;295;26;15;3;7;10;6;0;0;0;0;243;4;6
+Yoel Lago;es ESP;DF;Celta Vigo;21;201;200;1;1;0;0;0;0;0;0;0;0;187;0;1
+Aymeric Laporte;es ESP;DF;Athletic Club;31;334;315;19;13;0;5;0;3;0;0;0;0;301;0;5
+Toni Lato;es ESP;DF;Mallorca;27;73;68;5;0;0;0;5;5;0;0;0;0;59;0;1
+Robin Le Normand;es ESP;DF;Atlético Madrid;28;534;525;8;7;0;0;1;1;0;0;0;0;487;1;4
+Florian Lejeune;fr FRA;DF;Rayo Vallecano;34;585;559;26;17;0;7;2;1;0;0;0;0;517;0;1
+Youssef Lekhedim;es ESP;DF;Alavés;20;218;169;47;4;1;0;11;43;0;0;0;0;152;2;3
+Iñigo Lekue;es ESP;DF,FW;Athletic Club;32;78;61;17;0;0;0;3;17;0;0;0;0;61;0;1
+Thomas Lemar;fr FRA;MF,FW;Girona;29;103;89;14;4;0;2;14;1;9;5;4;0;79;0;2
+Clément Lenglet;fr FRA;DF;Atlético Madrid;30;289;280;8;4;0;7;2;0;0;0;0;0;254;1;1
+Robert Lewandowski;pl POL;FW;Barcelona;37;64;63;0;0;0;0;0;0;0;0;0;0;50;1;3
+Adrián Liso;es ESP;FW,MF;Getafe;20;119;104;15;4;0;0;18;1;5;2;1;0;77;0;7
+Javier Llabrés;es ESP;FW,MF;Mallorca;23;28;27;0;0;0;0;4;0;0;0;0;0;21;1;0
+Diego Llorente;es ESP;DF;Betis;32;36;35;1;1;0;0;0;0;0;0;0;0;27;0;0
+Marcos Llorente;es ESP;DF;Atlético Madrid;30;712;634;77;17;2;3;18;58;0;0;0;0;622;1;14
+Giovani Lo Celso;ar ARG;MF;Betis;29;419;354;64;37;5;3;35;2;21;10;7;0;345;1;5
+David López;es ESP;DF;Mallorca;22;19;19;0;0;0;0;0;0;0;0;0;0;16;0;0
+David López;es ESP;DF;Girona;36;173;164;9;2;0;2;0;0;0;0;0;0;152;0;3
+Diego López;es ESP;MF,FW;Valencia;23;196;187;8;2;1;1;15;5;0;0;0;0;132;1;9
+Fermin López;es ESP;MF,FW;Barcelona;22;163;159;1;0;2;0;7;1;0;0;0;0;129;3;3
+Javi López;es ESP;DF;Oviedo;23;56;44;11;0;0;1;4;11;0;0;0;0;42;1;1
+Pau López;es ESP;GK;Betis;30;221;149;69;20;0;1;0;0;0;0;0;0;165;3;0
+Unai López;es ESP;MF;Rayo Vallecano;30;418;383;33;18;0;2;20;1;14;3;8;1;358;2;10
+Iker Losada;es ESP;MF,FW;Levante;24;19;18;1;0;0;0;0;0;0;0;0;0;12;0;0
+Pol Lozano;es ESP;MF;Espanyol;26;327;311;15;10;2;2;7;5;0;0;0;0;277;1;5
+Sergio Lozano;es ESP;MF;Levante;26;7;6;1;1;0;0;0;0;0;0;0;0;7;0;0
+Oier Luengo;es ESP;DF;Oviedo;27;50;48;2;1;0;1;0;1;0;0;0;0;42;0;2
+José Luis Gayà;es ESP;DF;Valencia;30;271;234;37;3;2;1;17;34;0;0;0;0;206;0;3
+José Luis Morales;es ESP;MF,FW;Levante;38;75;73;2;0;0;0;4;1;0;0;0;0;55;0;4
+Dodi Lukebakio;be BEL;FW,MF;Sevilla;28;84;76;7;4;1;0;10;1;2;2;0;0;68;1;2
+Pablo Maffeo;es ESP;DF;Mallorca;28;236;191;45;2;0;0;17;43;0;0;0;0;174;0;9
+Marcão;br BRA;DF;Sevilla;29;246;238;5;5;0;2;1;0;0;0;0;0;213;3;1
+José María Giménez;uy URU;DF;Atlético Madrid;30;105;99;6;6;0;0;0;0;0;0;0;0;96;0;2
+Mariano;do DOM;FW;Alavés;32;38;37;1;0;0;0;2;1;0;0;0;0;23;0;0
+Rafa Marín;es ESP;DF;Villarreal;23;428;406;22;11;0;3;0;3;0;0;0;0;391;0;1
+Pablo Marín;es ESP;MF;Real Sociedad;22;163;153;10;0;1;0;5;6;0;0;0;0;129;0;4
+Gerard Martín;es ESP;DF;Barcelona;23;316;279;36;2;0;1;7;34;0;0;0;0;269;1;5
+Iván Martín;es ESP;MF;Girona;26;345;341;4;3;2;1;3;1;0;0;0;0;297;0;5
+Jon Martin;es ESP;DF;Real Sociedad;19;113;108;4;4;0;1;0;0;0;0;0;0;101;1;1
+Mario Martín;es ESP;MF;Getafe;21;175;168;2;2;0;2;3;0;0;0;0;0;132;5;7
+Arnau Martinez;es ESP;DF,MF;Girona;22;331;286;42;11;0;0;12;31;0;0;0;0;277;3;6
+Pablo Martínez;es ESP;MF;Levante;27;199;180;18;11;2;4;15;0;7;4;1;0;143;1;3
+Ramón Martínez;es ESP;DF;Sevilla;23;64;62;2;2;0;1;0;0;0;0;0;0;57;0;0
+Toni Martínez;es ESP;FW;Alavés;28;141;136;5;0;0;1;3;1;0;0;0;0;73;0;2
+Omar Mascarell;gq EQG;MF;Mallorca;32;68;68;0;0;0;1;0;0;0;0;0;0;60;0;2
+Franco Mastantuono;ar ARG;FW,DF;Real Madrid;18;251;233;18;6;5;3;16;1;11;5;2;0;215;0;6
+Borja Mayoral;es ESP;FW;Getafe;28;113;109;3;0;2;2;2;0;0;0;0;0;85;1;5
+Kylian Mbappé;fr FRA;FW;Real Madrid;26;387;362;24;1;1;3;7;1;3;1;0;0;344;1;7
+Brais Méndez;es ESP;MF;Real Sociedad;28;270;234;33;14;0;3;30;0;12;8;2;0;201;3;11
+Rodrigo Mendoza;es ESP;MF,FW;Elche;20;216;200;16;8;1;2;12;2;3;0;0;0;176;0;1
+Batista Mendy;fr FRA;MF;Sevilla;25;142;136;4;4;0;2;0;0;0;0;0;0;114;2;3
+Nobel Mendy;fr FRA;DF;Rayo Vallecano;21;81;70;11;2;0;1;0;0;0;0;0;0;67;0;4
+Georges Mikautadze;ge GEO;FW;Villarreal;24;72;67;4;0;4;0;2;1;0;0;0;0;45;1;2
+Éder Militão;br BRA;DF;Real Madrid;27;454;427;27;16;0;7;0;2;0;0;0;0;411;0;2
+Luis Milla;es ESP;MF;Getafe;31;461;371;86;45;3;8;43;0;28;6;14;1;343;4;7
+Pere Milla;es ESP;MF,FW;Espanyol;33;146;138;7;1;2;0;10;0;4;4;0;0;103;1;5
+Óscar Mingueza;es ESP;DF,MF;Celta Vigo;26;432;353;76;11;5;1;33;54;11;5;6;0;344;3;5
+Bojan Miovski;mk MKD;FW;Girona;26;3;1;2;0;0;0;0;0;0;0;0;0;2;0;0
+Rafa Mir;es ESP;FW,MF;Elche;28;165;162;3;0;0;0;8;1;0;0;0;0;130;0;4
+Johan Mojica;co COL;DF;Mallorca;33;442;367;75;8;0;6;39;67;0;0;0;0;333;0;15
+Alberto Moleiro;es ESP;MF,FW;Villarreal;22;172;161;10;4;3;0;10;0;3;2;1;0;131;1;3
+Nahuel Molina;ar ARG;DF;Atlético Madrid;27;78;64;14;0;0;0;6;14;0;0;0;0;66;0;1
+Jon Moncayola;es ESP;MF,DF;Osasuna;27;551;493;56;20;1;5;45;23;12;3;8;0;417;2;9
+Álex Moreno;es ESP;DF,MF;Girona;32;349;273;74;9;1;0;24;64;1;0;0;0;268;2;14
+Gerard Moreno;es ESP;FW;Villarreal;33;87;82;3;1;2;0;2;1;0;0;0;0;69;2;1
+Matias Moreno;ar ARG;DF;Levante;22;225;213;11;6;0;0;0;2;0;0;0;0;190;1;2
+Mateu Morey;es ESP;DF;Mallorca;25;167;142;24;1;0;1;7;23;0;0;0;0;128;1;6
+Ilaix Moriba;gn GUI;MF;Celta Vigo;22;292;284;6;4;4;1;1;1;1;0;0;0;251;2;6
+Manu Morlanes;es ESP;MF;Mallorca;26;295;279;13;10;1;0;2;3;0;0;0;0;256;3;5
+Santiago Mouriño;uy URU;DF;Villarreal;23;454;377;76;19;0;4;4;57;0;0;0;0;400;1;5
+Aihen Muñoz;es ESP;DF;Real Sociedad;28;166;135;29;1;1;1;7;28;0;0;0;0;129;2;2
+Iker Muñoz;es ESP;MF;Osasuna;22;19;19;0;0;0;0;0;0;0;0;0;0;17;0;1
+Javier Muñoz;es ESP;MF,FW;Getafe;30;38;38;0;0;0;1;0;0;0;0;0;0;26;0;1
+Víctor Muñoz;es ESP;FW,MF;Osasuna;22;163;152;9;0;0;0;21;2;0;0;0;0;121;2;5
+Vedat Muriqi;xk KVX;FW;Mallorca;31;165;162;2;1;1;0;1;0;0;0;0;0;107;1;5
+Natan;br BRA;DF;Betis;24;501;478;22;14;1;6;1;3;0;0;0;0;439;1;1
+Pau Navarro;es ESP;DF;Villarreal;20;85;73;12;2;0;0;1;10;0;0;0;0;75;0;2
+Roberto Navarro;es ESP;FW,MF;Athletic Club;23;135;128;7;1;1;0;16;4;2;2;0;0;99;0;2
+Martim Neto;pt POR;MF;Elche;22;222;214;7;2;0;1;8;1;3;3;0;0;192;1;4
+Yvan Neyou;cm CMR;MF;Getafe;28;14;14;0;0;0;0;0;0;0;0;0;0;13;0;0
+Tanguy Nianzou;fr FRA;DF;Sevilla;23;84;80;3;3;0;1;0;0;0;0;0;0;75;1;0
+Randy Nteka;ao ANG;FW;Rayo Vallecano;27;11;11;0;0;0;0;0;0;0;0;0;0;7;0;0
+Álvaro Núñez;es ESP;DF,FW;Elche;25;592;510;82;26;0;1;33;51;5;1;0;0;524;0;5
+Ørjan Nyland;no NOR;GK;Sevilla;35;131;103;27;11;0;1;0;0;0;0;0;0;92;1;0
+Allan Nyom;cm CMR;FW;Getafe;37;6;6;0;0;0;0;0;0;0;0;0;0;1;0;0
+Jan Oblak;si SVN;GK;Atlético Madrid;32;330;231;99;25;0;0;0;0;0;0;0;0;250;0;0
+Álvaro Odriozola;es ESP;DF;Real Sociedad;29;14;9;4;0;0;0;1;4;0;0;0;0;12;1;0
+Olasagasti;es ESP;MF;Levante;25;118;111;7;1;0;0;9;1;5;3;1;0;99;0;3
+Dani Olmo;es ESP;MF;Barcelona;27;295;269;25;7;4;0;6;3;9;1;1;0;242;1;6
+Tani Oluwaseyi;ca CAN;FW;Villarreal;25;35;32;2;0;0;0;0;1;0;0;0;0;24;1;1
+Aimar Oroz;es ESP;FW,MF;Osasuna;23;136;132;4;1;2;4;3;0;0;0;0;0;113;0;4
+Ángel Ortíz;es ESP;DF;Betis;21;46;35;11;1;0;0;0;10;0;0;0;0;37;0;1
+Asier Osambela;es ESP;DF,MF;Osasuna;21;80;79;1;1;0;0;0;0;0;0;0;0;64;0;0
+Azzedine Ounahi;ma MAR;MF,FW;Girona;25;157;147;9;6;7;0;7;1;2;1;1;0;130;1;1
+Mikel Oyarzabal;es ESP;FW;Real Sociedad;28;217;202;15;1;5;1;10;2;1;1;0;0;160;0;9
+Jon Pacheco;es ESP;DF;Alavés;24;237;227;9;9;1;2;0;0;0;0;0;0;199;1;0
+Isaac Palazón Camacho;es ESP;FW,MF;Rayo Vallecano;30;309;242;61;10;3;1;47;3;44;16;21;0;222;6;8
+Diego Pampín;es ESP;DF;Levante;25;64;58;6;0;0;0;3;6;0;0;0;0;51;0;1
+Victor Parada;es ESP;DF;Alavés;23;131;107;24;2;0;0;8;22;0;0;0;0;95;0;5
+Aitor Paredes;es ESP;DF;Athletic Club;25;369;354;15;10;0;1;0;0;0;0;0;0;326;0;1
+Daniel Parejo;es ESP;MF;Villarreal;36;261;232;27;13;2;2;10;0;11;6;2;0;230;2;4
+Thomas Partey;gh GHA;MF;Villarreal;32;226;221;5;4;3;0;1;1;0;0;0;0;190;0;0
+Alfonso Pedraza;es ESP;DF,MF;Villarreal;29;137;119;17;1;0;0;20;16;0;0;0;0;96;1;6
+Pedri;es ESP;MF;Barcelona;22;907;871;33;27;6;2;5;6;0;0;0;0;823;3;17
+Adrià Pedrosa;es ESP;DF;Elche;27;115;99;15;4;1;0;17;10;1;0;0;0;87;1;4
+Adrià Pedrosa;es ESP;DF;Sevilla;27;11;9;2;0;0;0;3;2;0;0;0;0;9;0;1
+Iñaki Peña;es ESP;GK;Elche;26;343;305;37;15;0;0;0;0;0;0;0;0;263;1;0
+Nicolas Pépé;ci CIV;FW,MF;Villarreal;30;291;255;34;5;1;2;31;3;20;18;0;0;235;2;6
+Peque;es ESP;MF,FW;Sevilla;23;65;57;6;3;0;0;4;0;3;1;0;0;46;2;3
+Ayoze Pérez;es ESP;FW;Villarreal;32;24;23;1;0;1;0;0;0;0;0;0;0;20;0;2
+Francisco Perez;es ESP;FW,MF;Rayo Vallecano;23;96;95;1;0;1;0;8;0;1;0;0;0;75;0;5
+Léo Pétrot;fr FRA;DF;Elche;28;241;211;29;2;0;1;8;27;0;0;0;0;203;1;3
+Charles Pickel;cd COD;MF;Espanyol;28;77;75;2;1;0;0;0;1;0;0;0;0;61;0;2
+Lander Pinillos;es ESP;MF;Alavés;22;2;2;0;0;0;0;1;0;0;0;0;0;1;0;1
+Yeremi Pino;es ESP;MF,FW;Villarreal;23;102;90;11;1;0;0;12;1;9;6;0;0;77;1;1
+Portu;es ESP;FW,MF;Girona;33;99;80;18;1;0;0;17;3;11;6;5;0;62;1;8
+Beñat Prados;es ESP;MF;Athletic Club;24;49;49;0;0;0;0;0;0;0;0;0;0;37;0;2
+Abdón Prats;es ESP;FW;Mallorca;32;9;8;1;0;0;0;1;0;0;0;0;0;7;0;0
+Javi Puado;es ESP;FW,MF;Espanyol;27;222;211;10;2;0;1;20;6;1;0;0;0;175;1;2
+Marc Pubill;es ESP;DF;Atlético Madrid;22;17;14;3;1;0;0;1;2;0;0;0;0;16;0;0
+Dani Raba;es ESP;FW;Valencia;30;98;87;11;2;3;4;8;4;4;1;2;0;74;0;3
+Ionuț Radu;ro ROU;GK;Celta Vigo;28;301;200;101;28;0;1;0;0;0;0;0;0;226;0;0
+Antonio Raillo;es ESP;DF;Mallorca;34;505;463;41;25;0;0;3;0;0;0;0;0;439;1;4
+Largie Ramazani;be BEL;FW,MF;Valencia;24;35;33;2;1;0;0;4;0;0;0;0;0;24;0;1
+Raphinha;br BRA;FW,MF;Barcelona;28;217;190;26;9;2;6;16;6;11;6;0;0;170;1;4
+Marcus Rashford;eng ENG;FW;Barcelona;27;321;275;45;2;0;2;40;5;37;22;4;0;254;1;4
+Giacomo Raspadori;it ITA;FW,MF;Atlético Madrid;25;57;47;9;1;0;0;9;1;7;2;4;0;43;1;0
+Andrei Ratiu;ro ROU;DF,MF;Rayo Vallecano;27;516;445;70;7;2;4;29;63;0;0;0;0;419;1;16
+Raúl;es ESP;FW;Osasuna;24;74;70;3;0;0;0;1;0;0;0;0;0;49;1;4
+Abde Rebbach;dz ALG;MF,FW;Alavés;27;181;155;25;7;0;0;29;4;14;8;5;0;126;1;6
+Federico Redondo;ar ARG;MF;Elche;22;12;12;0;0;0;0;0;0;0;0;0;0;10;0;0
+Alejandro Rego;es ESP;MF,FW;Athletic Club;22;42;40;2;2;0;0;0;0;0;0;0;0;36;0;1
+Alberto Reina;es ESP;MF;Oviedo;28;253;238;11;7;1;3;11;0;3;3;0;0;208;4;1
+Vitor Reis;br BRA;DF;Girona;19;450;425;24;21;1;2;0;2;0;0;0;0;410;1;2
+Álex Remiro;es ESP;GK;Real Sociedad;30;348;270;76;18;0;2;0;0;0;0;0;0;269;2;0
+Oriol Rey;es ESP;MF;Levante;27;234;221;13;13;0;0;3;0;0;0;0;0;191;0;6
+Diego Rico;es ESP;DF;Getafe;32;358;277;77;8;0;2;25;68;0;0;0;0;241;4;5
+Clemens Riedel;de GER;DF;Espanyol;22;244;233;11;6;0;0;1;0;0;0;0;0;220;0;0
+Hugo Rincón;es ESP;DF,MF;Girona;22;253;202;51;1;0;0;10;50;0;0;0;0;208;0;3
+Luis Rioja;es ESP;MF,FW;Valencia;32;301;270;29;7;0;4;38;8;14;4;10;0;215;2;11
+Rodrigo Riquelme;es ESP;FW,MF;Betis;25;180;173;5;1;3;1;12;4;0;0;0;0;143;2;7
+Mihailo Ristić;rs SRB;DF,MF;Celta Vigo;29;159;141;15;4;1;0;2;11;0;0;0;0;131;3;4
+Joel Roca;es ESP;FW,MF;Girona;20;138;125;13;1;1;1;14;6;5;2;0;0;106;0;11
+Marc Roca;es ESP;MF;Betis;28;174;169;5;5;0;1;1;0;0;0;0;0;155;0;2
+Álvaro Rodríguez;uy URU;FW;Elche;21;114;111;2;0;0;2;1;0;0;0;0;0;79;1;1
+Damián Rodríguez;es ESP;MF;Celta Vigo;22;118;111;7;2;0;0;3;1;4;0;3;0;108;0;0
+Dani Rodríguez;es ESP;MF;Mallorca;37;23;20;3;1;0;0;3;2;0;0;0;0;15;0;0
+Javi Rodríguez;es ESP;DF;Celta Vigo;22;491;471;20;14;2;2;0;6;0;0;0;0;451;0;5
+Ricardo Rodríguez;ch SUI;DF;Betis;33;248;218;29;8;0;1;9;21;0;0;0;0;211;1;2
+Rodrygo;br BRA;FW,MF;Real Madrid;24;171;155;15;2;2;0;12;6;7;3;2;0;142;1;3
+Leo Román;es ESP;GK;Mallorca;25;335;239;96;38;0;0;0;0;0;0;0;0;223;0;0
+Miguel Román;es ESP;MF;Celta Vigo;22;89;89;0;0;1;1;0;0;0;0;0;0;79;0;2
+Carlos Romero;es ESP;DF;Espanyol;24;359;284;73;5;0;1;29;68;0;0;0;0;282;2;8
+Isaac Romero;es ESP;FW;Sevilla;25;120;107;10;0;1;1;2;0;0;0;0;0;86;3;7
+Iván Romero;es ESP;FW;Levante;24;159;129;30;1;2;2;6;13;0;0;0;0;103;0;9
+Salomón Rondón;ve VEN;FW;Oviedo;36;131;112;16;1;0;2;1;0;0;0;0;0;86;3;2
+Valentin Rosier;fr FRA;DF,MF;Osasuna;29;322;268;54;2;1;0;13;52;0;0;0;0;242;0;3
+Rubén;es ESP;DF;Espanyol;24;133;103;30;2;1;0;15;28;0;0;0;0;100;0;3
+Antonio Rüdiger;de GER;DF;Real Madrid;32;71;68;3;2;0;1;0;0;0;0;0;0;68;0;0
+Javier Rueda Garcia;es ESP;DF,MF;Celta Vigo;23;207;175;32;0;1;1;6;32;0;0;0;0;152;0;13
+Matteo Ruggeri;it ITA;DF;Atlético Madrid;23;212;184;28;3;0;1;14;24;1;0;0;0;178;0;5
+Aitor Ruibal;es ESP;FW,DF;Betis;29;125;118;6;2;1;0;9;4;0;0;0;0;99;1;1
+Mathew Ryan;au AUS;GK;Levante;33;261;175;86;19;0;0;0;0;0;0;0;0;184;0;0
+Umar Sadiq;ng NGA;FW;Real Sociedad;28;4;4;0;0;0;0;0;0;0;0;0;0;3;0;0
+Jan Salas;es ESP;MF;Mallorca;20;10;10;0;0;0;0;0;0;0;0;0;0;6;0;2
+Kike Salas;es ESP;DF;Sevilla;23;308;296;9;8;0;4;3;1;0;0;0;0;254;3;4
+José Salinas;es ESP;DF,FW;Espanyol;25;14;11;3;0;0;0;1;3;0;0;0;0;5;0;0
+Oihan Sancet;es ESP;MF;Athletic Club;25;182;174;7;1;0;0;4;0;0;0;0;0;152;1;6
+Alexis Sánchez;cl CHI;FW,MF;Sevilla;36;139;128;10;2;0;2;8;0;4;0;2;0;95;1;5
+Antonio Sánchez;es ESP;MF,DF;Mallorca;28;108;98;10;3;0;1;4;7;0;0;0;0;92;0;3
+Juanlu Sánchez;es ESP;DF,FW;Sevilla;22;269;249;19;1;0;4;17;18;0;0;0;0;207;1;10
+Borja Sánchez Laborde;es ESP;MF;Oviedo;29;13;12;1;0;1;1;0;1;0;0;0;0;11;0;1
+Manu Sánchez;es ESP;DF;Levante;25;306;242;63;4;0;3;19;55;4;0;0;0;225;1;9
+Álex Sancris;es ESP;FW,MF;Getafe;28;80;75;4;0;0;2;10;0;4;1;3;0;45;1;3
+Maroan Sannadi;ma MAR;FW;Athletic Club;24;65;63;2;1;0;0;1;0;0;0;0;0;46;0;3
+Baptiste Santamaria;fr FRA;MF;Valencia;30;284;271;11;11;0;2;2;0;0;0;0;0;229;2;8
+Nicolás Serrano;es ESP;FW;Athletic Club;22;56;49;7;1;0;0;12;1;5;4;0;0;42;0;2
+Kwasi Sibo;gh GHA;MF;Oviedo;27;133;132;0;0;0;0;0;0;0;0;0;0;117;1;0
+André Silva;pt POR;FW;Elche;29;159;150;9;0;1;1;0;0;0;0;0;0;130;0;5
+Giuliano Simeone;ar ARG;MF,FW;Atlético Madrid;22;350;340;9;1;2;1;14;8;0;0;0;0;281;1;11
+Unai Simón;es ESP;GK;Athletic Club;28;322;232;89;45;0;1;0;0;0;0;0;0;208;1;0
+Antonio Sivera;es ESP;GK;Alavés;29;264;147;116;43;0;0;0;0;0;0;0;0;155;1;0
+Alex Sola;es ESP;FW;Getafe;26;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Carlos Soler;es ESP;MF;Real Sociedad;28;189;178;11;4;1;0;8;2;5;1;1;0;156;0;1
+Jhon Solis;co COL;MF;Girona;21;136;132;4;2;0;1;0;1;0;0;0;0;120;0;1
+Manor Solomon;il ISR;MF;Villarreal;26;40;32;8;2;0;0;9;0;6;5;0;0;28;0;0
+David Soria;es ESP;GK;Getafe;32;292;153;134;58;0;0;0;0;0;0;0;0;115;5;0
+Hugo Sotelo;es ESP;MF;Celta Vigo;21;498;447;48;24;2;3;28;1;23;6;14;0;434;3;3
+Djibril Sow;ch SUI;MF;Sevilla;28;162;150;11;2;0;4;6;0;4;2;2;0;133;1;4
+Carl Starfelt;se SWE;DF;Celta Vigo;30;130;129;1;1;0;0;0;0;0;0;0;0;124;0;0
+Orri Steinn Óskarsson;is ISL;FW;Real Sociedad;21;18;18;0;0;1;0;1;0;0;0;0;0;9;0;1
+Cristhian Stuani;uy URU;FW;Girona;39;21;16;5;0;0;0;0;0;0;0;0;0;13;0;2
+Denis Suárez;es ESP;MF;Alavés;31;178;167;10;7;4;0;4;0;3;0;1;0;152;1;2
+Gabriel Suazo;cl CHI;DF,MF;Sevilla;28;401;302;97;15;2;2;38;63;19;9;8;0;315;2;9
+Luka Sučić;hr CRO;MF;Real Sociedad;23;55;52;3;0;0;1;1;1;0;0;0;0;42;0;2
+Williot Swedberg;se SWE;MF,FW;Celta Vigo;21;52;50;2;0;2;0;1;2;0;0;0;0;42;0;2
+Wojciech Szczęsny;pl POL;GK;Barcelona;35;133;101;31;9;0;0;0;0;0;0;0;0;115;1;0
+Alexander Sørloth;no NOR;FW;Atlético Madrid;29;94;87;4;0;0;1;1;0;1;0;0;0;52;3;4
+César Tárrega;es ESP;DF;Valencia;23;543;507;34;19;0;2;0;1;0;0;0;0;463;2;5
+Aurélien Tchouaméni;fr FRA;MF;Real Madrid;25;530;514;14;12;2;4;2;2;0;0;0;0;486;2;1
+Nahuel Tenaglia;ar ARG;DF;Alavés;29;323;311;10;9;0;3;1;1;0;0;0;0;265;2;7
+Arnau Tenas;es ESP;GK;Villarreal;24;90;59;31;5;0;0;0;0;0;0;0;0;47;0;0
+Ramón Terrats;es ESP;MF;Espanyol;25;34;32;2;0;0;1;1;0;1;0;1;0;25;0;1
+Jeremy Toljan;de GER;DF;Levante;31;380;286;90;8;2;3;18;82;0;0;0;0;267;4;14
+Pablo Torre;es ESP;MF,FW;Mallorca;22;283;245;36;14;0;2;23;3;15;8;5;0;222;2;5
+Jofre Torrents;es ESP;DF;Barcelona;18;38;31;7;0;0;0;3;7;0;0;0;0;32;0;0
+Ferrán Torres;es ESP;FW;Barcelona;25;144;132;12;0;0;0;1;1;0;0;0;0;111;0;7
+Lucas Torró;es ESP;MF;Osasuna;31;361;356;3;3;0;7;1;0;0;0;0;0;275;2;2
+Óscar Trejo;ar ARG;MF;Rayo Vallecano;37;40;38;1;1;1;0;2;0;0;0;0;0;32;1;0
+Viktor Tsyhankov;ua UKR;MF,FW;Girona;27;99;84;14;7;0;1;12;1;4;1;3;0;68;1;2
+Beñat Turrientes;es ESP;MF;Real Sociedad;23;108;105;3;3;0;1;2;0;0;0;0;0;92;0;1
+Christantus Uche;ng NGA;FW;Getafe;22;46;44;1;0;0;1;1;1;0;0;0;0;29;1;1
+Filip Ugrinic;ch SUI;MF;Valencia;26;38;33;5;2;0;0;5;0;3;0;3;0;33;0;0
+Óscar Valentín;es ESP;MF;Rayo Vallecano;31;220;218;2;2;1;0;0;0;0;0;0;0;195;0;2
+Germán Valera;es ESP;FW,DF;Elche;23;363;323;39;6;0;1;24;19;14;0;2;0;298;1;14
+Martin Valjent;sk SVK;DF;Mallorca;29;444;416;27;16;0;4;2;11;0;0;0;0;378;1;3
+Álvaro Vallés;es ESP;GK;Betis;28;109;85;23;4;0;0;0;0;0;0;0;0;90;1;0
+Federico Valverde;uy URU;MF,DF;Real Madrid;27;582;549;32;13;1;8;11;18;1;0;0;0;521;1;5
+Vladyslav Vanat;ua UKR;FW;Girona;23;69;56;12;0;1;0;2;0;0;0;0;0;53;1;3
+Ruben Vargas;ch SUI;FW,MF;Sevilla;27;266;235;30;9;1;2;30;7;12;5;5;0;174;1;7
+José Luis García Vayá;es ESP;MF;Valencia;27;349;309;40;21;3;7;25;0;19;5;12;0;274;0;4
+Jesus Vazquez;es ESP;DF;Valencia;22;159;116;42;2;0;1;5;40;0;0;0;0;136;1;1
+Renato Veiga;pt POR;DF;Villarreal;22;337;310;25;12;1;3;1;3;0;0;0;0;299;2;1
+Unai Vencedor Paris;es ESP;MF;Levante;24;220;202;16;11;1;3;11;0;5;1;2;0;175;2;1
+Jozhua Vertrouwd;nl NED;DF;Rayo Vallecano;21;104;90;14;3;0;0;0;1;0;0;0;0;98;0;0
+Mikel Vesga;es ESP;MF;Athletic Club;32;113;112;1;0;0;3;1;1;0;0;0;0;90;0;3
+Carlos Vicente;es ESP;MF,FW;Alavés;26;334;299;33;6;0;0;58;10;17;1;14;0;238;2;17
+Nacho Vidal;es ESP;DF;Oviedo;30;245;200;45;5;0;1;6;40;0;0;0;0;202;0;2
+Federico Viñas;uy URU;FW;Oviedo;27;54;49;5;0;0;0;0;0;0;0;0;0;36;0;0
+Jan Virgili;es ESP;FW,MF;Mallorca;19;73;68;5;0;1;0;8;2;3;2;0;0;55;0;3
+Daniel Vivian;es ESP;DF;Athletic Club;26;454;432;22;22;0;6;3;0;0;0;0;0;387;0;4
+Odysseas Vlachodimos;gr GRE;GK;Sevilla;31;218;161;57;22;0;0;0;0;0;0;0;0;159;0;2
+Iñaki Williams;gh GHA;FW;Athletic Club;31;163;157;5;0;0;0;18;3;0;0;0;0;104;1;13
+Nico Williams;es ESP;FW;Athletic Club;23;157;147;10;2;1;2;12;1;7;1;4;0;114;0;8
+Axel Witsel;be BEL;MF;Girona;36;279;262;15;15;0;0;1;0;0;0;0;0;245;2;3
+Lamine Yamal;es ESP;FW;Barcelona;18;256;242;14;1;3;0;21;5;8;4;0;0;193;0;6
+Arsen Zakharyan;ru RUS;MF,FW;Real Sociedad;22;57;51;5;0;1;0;6;3;2;2;0;0;45;1;1
+Bryan Zaragoza;es ESP;FW,MF;Celta Vigo;24;140;134;6;0;2;1;23;1;5;0;2;0;93;0;6
+Igor Zubeldia;es ESP;DF;Real Sociedad;28;519;501;18;15;2;8;0;1;0;0;0;0;449;0;3

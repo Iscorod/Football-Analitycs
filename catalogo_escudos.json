@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "description": "Catálogo de escudos asociado a los nombres Squad de los CSV de la app.",
+  "source": {
+    "name": "football-badges",
+    "repository": "https://github.com/leoratzlaff/football-badges",
+    "cdn": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master"
+  },
+  "supplementary_sources": [
+    {
+      "name": "football-logos historical La Liga 2024-25",
+      "repository": "https://github.com/luukhopman/football-logos",
+      "cdn": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master"
+    }
+  ],
+  "teams": {
+    "alaves": {
+      "league": "La Liga",
+      "fbref_name": "Alavés",
+      "aliases": ["Deportivo Alavés", "Alaves"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/history/2024-25/Spain%20-%20LaLiga/Deportivo%20Alav%C3%A9s.png"
+    },
+    "athletic-club": {
+      "league": "La Liga",
+      "fbref_name": "Athletic Club",
+      "aliases": ["Athletic Bilbao", "Athletic Club Bilbao"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/spain/athletic-bilbao.png"
+    },
+    "atletico-madrid": {
+      "league": "La Liga",
+      "fbref_name": "Atlético Madrid",
+      "aliases": ["Atlético de Madrid", "Atletico Madrid", "Atletico de Madrid"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/spain/atletico-de-madrid.png"
+    },
+    "barcelona": {
+      "league": "La Liga",
+      "fbref_name": "Barcelona",
+      "aliases": ["FC Barcelona"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/spain/fc-barcelona.png"
+    },
+    "betis": {
+      "league": "La Liga",
+      "fbref_name": "Betis",
+      "aliases": ["Real Betis", "Real Betis Balompié"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/spain/real-betis-balompie.png"
+    },
+    "celta-vigo": {
+      "league": "La Liga",
+      "fbref_name": "Celta Vigo",
+      "aliases": ["Celta de Vigo", "RC Celta"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/spain/celta-de-vigo.png"
+    },
+    "espanyol": {
+      "league": "La Liga",
+      "fbref_name": "Espanyol",
+      "aliases": ["RCD Espanyol", "RCD Espanyol Barcelona"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/spain/rcd-espanyol-barcelona.png"
+    },
+    "getafe": {
+      "league": "La Liga",
+      "fbref_name": "Getafe",
+      "aliases": ["Getafe CF"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/spain/getafe-cf.png"
+    },
+    "girona": {
+      "league": "La Liga",
+      "fbref_name": "Girona",
+      "aliases": ["Girona FC"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/spain/girona-fc.png"
+    },
+    "las-palmas": {
+      "league": "La Liga",
+      "fbref_name": "Las Palmas",
+      "aliases": ["UD Las Palmas"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/history/2024-25/Spain%20-%20LaLiga/UD%20Las%20Palmas.png"
+    },
+    "leganes": {
+      "league": "La Liga",
+      "fbref_name": "Leganés",
+      "aliases": ["Leganes", "CD Leganés", "CD Leganes"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/history/2024-25/Spain%20-%20LaLiga/CD%20Legan%C3%A9s.png"
+    },
+    "mallorca": {
+      "league": "La Liga",
+      "fbref_name": "Mallorca",
+      "aliases": ["RCD Mallorca"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/spain/rcd-mallorca.png"
+    },
+    "osasuna": {
+      "league": "La Liga",
+      "fbref_name": "Osasuna",
+      "aliases": ["CA Osasuna", "Club Atlético Osasuna"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/spain/ca-osasuna.png"
+    },
+    "rayo-vallecano": {
+      "league": "La Liga",
+      "fbref_name": "Rayo Vallecano",
+      "aliases": ["Rayo"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/spain/rayo-vallecano.png"
+    },
+    "real-madrid": {
+      "league": "La Liga",
+      "fbref_name": "Real Madrid",
+      "aliases": ["Real Madrid CF"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/spain/real-madrid.png"
+    },
+    "real-sociedad": {
+      "league": "La Liga",
+      "fbref_name": "Real Sociedad",
+      "aliases": ["Real Sociedad de Fútbol"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/spain/real-sociedad.png"
+    },
+    "sevilla": {
+      "league": "La Liga",
+      "fbref_name": "Sevilla",
+      "aliases": ["Sevilla FC"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/spain/sevilla-fc.png"
+    },
+    "valencia": {
+      "league": "La Liga",
+      "fbref_name": "Valencia",
+      "aliases": ["Valencia CF"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/spain/valencia-cf.png"
+    },
+    "valladolid": {
+      "league": "La Liga",
+      "fbref_name": "Valladolid",
+      "aliases": ["Real Valladolid", "Real Valladolid CF"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/history/2024-25/Spain%20-%20LaLiga/Real%20Valladolid%20CF.png"
+    },
+    "villarreal": {
+      "league": "La Liga",
+      "fbref_name": "Villarreal",
+      "aliases": ["Villarreal CF"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/spain/villarreal-cf.png"
+    },
+    "angers": {
+      "league": "Ligue 1",
+      "fbref_name": "Angers",
+      "aliases": ["Angers SCO"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/angers-sco.png"
+    },
+    "auxerre": {
+      "league": "Ligue 1",
+      "fbref_name": "Auxerre",
+      "aliases": ["AJ Auxerre"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/aj-auxerre.png"
+    },
+    "brest": {
+      "league": "Ligue 1",
+      "fbref_name": "Brest",
+      "aliases": ["Stade Brestois", "Stade Brestois 29"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/stade-brestois-29.png"
+    },
+    "le-havre": {
+      "league": "Ligue 1",
+      "fbref_name": "Le Havre",
+      "aliases": ["Le Havre AC"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/le-havre-ac.png"
+    },
+    "lens": {
+      "league": "Ligue 1",
+      "fbref_name": "Lens",
+      "aliases": ["RC Lens", "Racing Club de Lens"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/rc-lens.png"
+    },
+    "lille": {
+      "league": "Ligue 1",
+      "fbref_name": "Lille",
+      "aliases": ["LOSC Lille", "Lille OSC"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/losc-lille.png"
+    },
+    "lorient": {
+      "league": "Ligue 1",
+      "fbref_name": "Lorient",
+      "aliases": ["FC Lorient"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/fc-lorient.png"
+    },
+    "lyon": {
+      "league": "Ligue 1",
+      "fbref_name": "Lyon",
+      "aliases": ["Olympique Lyonnais", "Olympique Lyon"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/olympique-lyon.png"
+    },
+    "marseille": {
+      "league": "Ligue 1",
+      "fbref_name": "Marseille",
+      "aliases": ["Olympique de Marseille", "Olympique Marseille", "OM"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/olympique-marseille.png"
+    },
+    "metz": {
+      "league": "Ligue 1",
+      "fbref_name": "Metz",
+      "aliases": ["FC Metz"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/fc-metz.png"
+    },
+    "monaco": {
+      "league": "Ligue 1",
+      "fbref_name": "Monaco",
+      "aliases": ["AS Monaco", "AS Monaco FC"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/as-monaco.png"
+    },
+    "nantes": {
+      "league": "Ligue 1",
+      "fbref_name": "Nantes",
+      "aliases": ["FC Nantes"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/fc-nantes.png"
+    },
+    "nice": {
+      "league": "Ligue 1",
+      "fbref_name": "Nice",
+      "aliases": ["OGC Nice"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/ogc-nice.png"
+    },
+    "paris-fc": {
+      "league": "Ligue 1",
+      "fbref_name": "Paris FC",
+      "aliases": [],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/paris-fc.png"
+    },
+    "paris-sg": {
+      "league": "Ligue 1",
+      "fbref_name": "Paris S-G",
+      "aliases": ["Paris Saint-Germain", "Paris Saint Germain", "PSG"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/paris-saint-germain.png"
+    },
+    "rennes": {
+      "league": "Ligue 1",
+      "fbref_name": "Rennes",
+      "aliases": ["Stade Rennais", "Stade Rennais FC"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/stade-rennais-fc.png"
+    },
+    "strasbourg": {
+      "league": "Ligue 1",
+      "fbref_name": "Strasbourg",
+      "aliases": ["RC Strasbourg Alsace", "Racing Club de Strasbourg Alsace"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/rc-strasbourg-alsace.png"
+    },
+    "toulouse": {
+      "league": "Ligue 1",
+      "fbref_name": "Toulouse",
+      "aliases": ["Toulouse FC", "FC Toulouse"],
+      "crest_url": "https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@master/logos/france/fc-toulouse.png"
+    }
+  }
+}
